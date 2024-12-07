@@ -1,24 +1,24 @@
-import React from 'react';
+import React from "react";
 
-import config from '../config/index.json';
-import Divider from './Divider';
+import config from "../config/index.json";
+import Divider from "./Divider";
 
-const Product = () => {
-  const { product } = config;
-  const [firstItem, secondItem] = product.items;
+const Venue = () => {
+  const { venue } = config;
+  const [firstItem, secondItem] = venue.items;
 
   return (
-    <section className={`bg-background py-8`} id="product">
+    <section className={`bg-background py-8`} id="venue">
       <div className={`container max-w-5xl mx-auto m-8`}>
         <h1
           className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
         >
-          {product.title.split(' ').map((word, index) => (
+          {venue.title.split(" ").map((word, index) => (
             <span
               key={index}
-              className={index % 2 ? 'text-primary' : 'text-border'}
+              className={index % 2 ? "text-primary" : "text-border"}
             >
-              {word}{' '}
+              {word}{" "}
             </span>
           ))}
         </h1>
@@ -32,21 +32,27 @@ const Product = () => {
             </h3>
             <p className={`text-gray-600`}>{firstItem?.description}</p>
           </div>
-          <div className={`w-full sm:w-1/2 p-6`}>
-            <img
-              className="h-6/6"
-              src={firstItem?.img}
-              alt={firstItem?.title}
-            />
+          <div
+            className={`w-full sm:w-1/2 p-6 flex justify-center items-center`}
+          >
+            <a href={firstItem?.href || "#"}>
+              <img
+                className="h-auto w-auto" // Ensure the image maintains its aspect ratio
+                src={firstItem?.img}
+                alt={firstItem?.title}
+              />
+            </a>
           </div>
         </div>
         <div className={`flex flex-wrap flex-col-reverse sm:flex-row`}>
           <div className={`w-full sm:w-1/2 p-6`}>
-            <img
-              className="h-6/6"
-              src={secondItem?.img}
-              alt={secondItem?.title}
-            />
+            <a href={secondItem?.href || "#"}>
+              <img
+                className="h-6/6"
+                src={secondItem?.img}
+                alt={secondItem?.title}
+              />
+            </a>
           </div>
           <div className={`w-full sm:w-1/2 p-6 mt-20`}>
             <div className={`align-middle`}>
@@ -64,4 +70,4 @@ const Product = () => {
   );
 };
 
-export default Product;
+export default Venue;

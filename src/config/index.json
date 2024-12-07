@@ -5,21 +5,21 @@
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
+      "name": "Venue",
+      "href": "venue"
     },
     {
-      "name": "Features",
-      "href": "features"
+      "name": "Accommodation",
+      "href": "accommodation"
     },
 
     {
-      "name": "Pricing",
-      "href": "pricing"
+      "name": "Gifts",
+      "href": "gifts"
     },
     {
-      "name": "About",
-      "href": "about"
+      "name": "Menu",
+      "href": "menu"
     }
   ],
   "callToAction": {
@@ -27,10 +27,10 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "The Wedding Of ",
+    "subtitle": "Agata & Thomas",
+    "description": "On June 28th, 2025, we will be celebrating our love in Bydgoszcz, at the stunning Boska Wenecja, located in the heart of the city. This website will provide you with all the information you need to join us as we begin this new chapter of our lives together. We can't wait to celebrate with all our family and friends.",
+    "img": "/assets/images/main-hero.jpg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -40,22 +40,24 @@
       "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
     }
   },
-  "product": {
-    "title": "React landing page 2021",
+  "venue": {
+    "title": "The Venice of Bydgoszcz",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Event space and restaurant",
+        "description": "Nestled by the tranquil Młynówka River in Bydgoszcz, Boska Wenecja is a captivating venue that blends charm and versatility. It's the perfect setting for unforgettable weddings, lively concerts, and inspiring workshops. With cozy lodgings, artisanal dining, and even a craft brewery, it offers everything to delight your guests. Surrounded by stunning views of Wyspa Młyńska, Boska Wenecja promises not just an event but a magical experience, where every detail feels personal and inspired",
+        "img": "/assets/svgs/boskaWenecja-min.svg",
+        "href":"https://www.boskawenecja.pl/"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Beer Museum",
+        "description": "Located within the Wyspa Młyńska Brewery complex and the Warzelnia Piwa restaurant and pub, you will find an interactive beer museum. The museum offers using a unique opportunity to explore the history of brewing while also highlighting contemporary brewing practices in Poland. The Beer Museum, alongside the Beer Brewery, forms a key part of the TeH2O tourist route, celebrating the rich industrial and craft heritage of Bydgoszcz",
+        "img": "/assets/images/MuzeumPiwa.jpg",
+        "href":"https://www.boskawenecja.pl/obiekty/muzeum-piwa-1"
       }
     ]
   },
-  "features": {
+  "accommodation": {
     "title": "Latest & greatest ",
     "subtitle": "All the best technologies out there!",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",

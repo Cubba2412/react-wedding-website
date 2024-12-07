@@ -3,6 +3,7 @@ import { useRef, FC, useEffect, useState } from 'react';
 import { CanvasContext } from '../hooks/useCanvas';
 import useResponsiveSize from '../hooks/useResponsiveSize';
 import Wave from './Wave';
+import FlyingFlowers from './Wave';
 
 const Canvas: FC = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -20,7 +21,7 @@ const Canvas: FC = () => {
     <>
       <CanvasContext.Provider value={{ context }}>
         <canvas id="canvas" ref={canvasRef} width={width} height={220}></canvas>
-        <Wave />
+        {/* <FlyingFlowers /> */}
       </CanvasContext.Provider>
     </>
   );
