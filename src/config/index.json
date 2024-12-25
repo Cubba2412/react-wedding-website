@@ -58,29 +58,30 @@
     ]
   },
   "accommodation": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Bydgoszcz",
+    "subtitle": "Hotels & Accomodation",
+    "description": "Bydgoszcz has plenty of places to stay, whether you're looking for something sleek and modern or a more intimate, homey vibe. Below, you'll find a selection of hotels located near the city center, close to the wedding venue, making it easy to explore Bydgoszcz while staying close to all the action.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Rezydencja Sowa",
+        "description": "Sowa Residence in Bydgoszcz is located in the heart of the Old Town, in the immediate vicinity of the most notable monuments of the city and the banks of the Brda River. Housed in a renovated historic building, the property offers a restaurant, confectionery, relaxation and conference areas.",
+        "image":"/assets/images/sowa-hotel.jpg",
+        "link":"https://www.rezydencjasowa.pl/en/",
+        "icon": "/assets/images/logo-sowa.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "La Mare Housebouts",
+        "description": "Dom Na Wodzie La Mare Houseboat offers a unique riverside retreat in the heart of Bydgoszcz, just steps from the Opera Nova Conference Centre and Town Hall. This air-conditioned floating apartment features two bedrooms, a cozy living room with a flat-screen TV, and a fully equipped kitchen with a dishwasher and microwave. Guests can relax on the private balcony or terrace, enjoying stunning river views.",
+        "image":"/assets/images/la-mare-houseboats.jpg",
+        "link":"https://www.booking.com/hotel/pl/la-mare-apartamenty.en-gb.html",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Holiday Inn Bydgoszcz",
+        "description": "Holiday Inn Bydgoszcz is a 4-star riverside hotel in Bydgoszcz city centre, with the city's charming Old Town only a short stroll away. ",
+        "image":"/assets/images/holiday-inn.jpg",
+        "link":"https://www.ihg.com/holidayinn/hotels/gb/en/bydgoszcz/bzgzz/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PL-_-BZGZZ",
         "icon": "/assets/images/nextjs.svg"
-      },
-      {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
       }
     ]
   },
