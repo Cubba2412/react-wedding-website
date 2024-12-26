@@ -1,4 +1,3 @@
-import React from 'react';
 
 import About from '../components/About';
 import Analytics from '../components/Analytics';
@@ -8,8 +7,8 @@ import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
-import Pricing from '../components/Pricing';
 import Venue from '../components/Venue';
+import Gifts from '../components/Gifts';
 
 const App = () => {
   return (
@@ -39,7 +38,7 @@ const App = () => {
         </>
       </LazyShow>
       <LazyShow>
-        <Pricing />
+        <Gifts/>
       </LazyShow>
       <LazyShow>
         <>
