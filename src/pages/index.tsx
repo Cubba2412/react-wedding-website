@@ -11,6 +11,7 @@ import Venue from '../components/Venue';
 import Gifts from '../components/Gifts';
 import Menu from '../components/Menu';
 import ThingsToDo from '../components/ThingsToDo';
+import Traditions from '../components/Traditions';
 
 const App = () => {
   return (
@@ -47,6 +48,9 @@ const App = () => {
       </LazyShow>
       <LazyShow>
         <ThingsToDo/>
+      </LazyShow>
+      <LazyShow>
+        <Traditions/>
       </LazyShow>
       <LazyShow>
         <>
