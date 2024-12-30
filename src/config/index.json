@@ -90,6 +90,12 @@
     "subTitle":"Wishlist",
     "description": "We are so excited to be getting married, and the only thing that we ask for is your company. However, should you wish to give us anything, we request that you give us cards, memories, and a bloody good wedding! If anyone wishes to give us gifts, we would appreciate donations towards our honeymoon."
   },
+ "menu": {
+  "title": "Menu",
+  "subTitle": "Culinary Delights from Two Cultures",
+  "description": "We are thrilled to share with you a feast of modern Polish cuisine. Aditionally, we'll have some snacks from both Denmark and Poland, along with sparkling and non-sparkling wine, local craft beer and an assortment of sodas."
+}
+,
   "about": {
     "sections": [
       {
