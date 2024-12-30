@@ -6,7 +6,7 @@ import { Link } from 'react-scroll';
 
 import config from '../config/index.json';
 
-const Menu = () => {
+const Header = () => {
   const { navigation, company } = config;
   const { name: companyName, logo } = company;
 
@@ -114,4 +114,4 @@ const Menu = () => {
   );
 };
 
-export default Menu;
+export default Header;
