@@ -20,6 +20,10 @@
     {
       "name": "Menu",
       "href": "menu"
+    },
+    {
+      "name": "Things To Do",
+      "href": "thingsToDo"
     }
   ],
   "callToAction": {
@@ -90,39 +94,21 @@
     "subTitle":"Wishlist",
     "description": "We are so excited to be getting married, and the only thing that we ask for is your company. However, should you wish to give us anything, we request that you give us cards, memories, and a bloody good wedding! If anyone wishes to give us gifts, we would appreciate donations towards our honeymoon."
   },
- "menu": {
-  "title": "Menu",
-  "subTitle": "Culinary Delights from Two Cultures",
-  "description": "We are thrilled to share with you a feast of modern Polish cuisine. Aditionally, we'll have some snacks from both Denmark and Poland, along with sparkling and non-sparkling wine, local craft beer and an assortment of sodas."
-}
-,
+  "menu": {
+    "title": "Menu",
+    "subTitle": "Culinary Delights from Two Cultures",
+    "description": "We are thrilled to share with you a feast of modern Polish cuisine. Aditionally, we'll have some snacks from both Denmark and Poland, along with sparkling and non-sparkling wine, local craft beer and an assortment of sodas."
+  }
+  ,
+  "thingsToDo": {
+    "title": "Bydgoszcz",
+    "subTitle":"What to see and what to do",
+    "description": "Comming soon..."
+  },
   "about": {
-    "sections": [
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      }
-    ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/Cubba2412",
+      "linkedin": "https://www.linkedin.com/in/thomas-birk-frederiksen/"
     }
   }
 }

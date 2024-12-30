@@ -1,13 +1,13 @@
 import React from "react";
-import PDFViewer from "./pdfViewer";
 import config from "../config/index.json";
+import PDFViewer from "./PDFViewer";
 
 const Menu = () => {
   const { menu } = config;
   return (
     <>
       {/* Title Section */}
-      <div className="lg:text-center">
+      <div className="lg:text-center" id="menu">
         <h2 className="text-base text-primary font-semibold tracking-wide uppercase">
           {menu.title}
         </h2>

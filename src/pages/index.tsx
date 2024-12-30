@@ -10,6 +10,7 @@ import MainHeroImage from '../components/MainHeroImage';
 import Venue from '../components/Venue';
 import Gifts from '../components/Gifts';
 import Menu from '../components/Menu';
+import ThingsToDo from '../components/ThingsToDo';
 
 const App = () => {
   return (
@@ -43,6 +44,9 @@ const App = () => {
       </LazyShow>
       <LazyShow>
         <Menu/>
+      </LazyShow>
+      <LazyShow>
+        <ThingsToDo/>
       </LazyShow>
       <LazyShow>
         <>
