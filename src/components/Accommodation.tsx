@@ -1,9 +1,15 @@
 import React from 'react';
+
 import config from '../config/index.json';
 
 const Accommodation = () => {
   const { accommodation } = config;
-  const { title, subtitle, description, items: accommodationList } = accommodation;
+  const {
+    title,
+    subtitle,
+    description,
+    items: accommodationList,
+  } = accommodation;
 
   return (
     <div className={`py-12 bg-background`} id="accommodation">
@@ -39,8 +45,12 @@ const Accommodation = () => {
 
                 {/* Card Content */}
                 <div className="text-center mt-12">
-                  <h3 className="text-xl font-semibold text-gray-800">{feature.name}</h3>
-                  <p className="mt-2 text-base text-gray-600">{feature.description}</p>
+                  <h3 className="text-xl font-semibold text-gray-800">
+                    {feature.name}
+                  </h3>
+                  <p className="mt-2 text-base text-gray-600">
+                    {feature.description}
+                  </p>
                 </div>
               </a>
             ))}

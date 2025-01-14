@@ -1,17 +1,16 @@
-
 import About from '../components/About';
+import Accommodation from '../components/Accommodation';
 import Analytics from '../components/Analytics';
 import Canvas from '../components/Canvas';
-import Accommodation from '../components/Accommodation';
+import Gifts from '../components/Gifts';
 import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
-import Venue from '../components/Venue';
-import Gifts from '../components/Gifts';
 import Menu from '../components/Menu';
 import ThingsToDo from '../components/ThingsToDo';
 import Traditions from '../components/Traditions';
+import Venue from '../components/Venue';
 
 const App = () => {
   return (
@@ -41,16 +40,16 @@ const App = () => {
         </>
       </LazyShow>
       <LazyShow>
-        <Gifts/>
+        <Gifts />
       </LazyShow>
       <LazyShow>
-        <Menu/>
+        <Menu />
       </LazyShow>
       <LazyShow>
-        <ThingsToDo/>
+        <ThingsToDo />
       </LazyShow>
       <LazyShow>
-        <Traditions/>
+        <Traditions />
       </LazyShow>
       <LazyShow>
         <>

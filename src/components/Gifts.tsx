@@ -1,25 +1,26 @@
-import React from "react";
-import Lottie from "lottie-react";
-import { Action, InteractivityProps } from "lottie-react";
-import giftBoxAnimation from "../../public/assets/animations/gift-box.json";
-import config from "../config/index.json";
+import React from 'react';
+
+import Lottie, { Action, InteractivityProps } from 'lottie-react';
+
+import giftBoxAnimation from '../../public/assets/animations/gift-box.json';
+import config from '../config/index.json';
 
 const interactivity = {
-  mode: "scroll" as InteractivityProps["mode"],
+  mode: 'scroll' as InteractivityProps['mode'],
   actions: [
     {
       visibility: [0, 0.2] as [number, number],
-      type: "stop" as Action["type"],
+      type: 'stop' as Action['type'],
       frames: [0] as [number],
     },
     {
       visibility: [0.2, 0.8] as [number, number],
-      type: "seek" as Action["type"],
+      type: 'seek' as Action['type'],
       frames: [0, 100] as [number, number], // Adjust frame range based on animation length
     },
     {
       visibility: [0.8, 1.0] as [number, number],
-      type: "loop" as Action["type"],
+      type: 'loop' as Action['type'],
       frames: [100, 150] as [number, number], // Adjust frame range for looping segment
     },
   ],
