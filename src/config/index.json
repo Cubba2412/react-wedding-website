@@ -70,22 +70,19 @@
         "name": "Rezydencja Sowa",
         "description": "Sowa Residence in Bydgoszcz is located in the heart of the Old Town, in the immediate vicinity of the most notable monuments of the city and the banks of the Brda River. Housed in a renovated historic building, the property offers a restaurant, confectionery, relaxation and conference areas.",
         "image": "/assets/images/sowa-hotel.jpg",
-        "link": "https://www.rezydencjasowa.pl/en/",
-        "icon": "/assets/images/logo-sowa.png"
+        "link": "https://www.rezydencjasowa.pl/en/"
       },
       {
         "name": "La Mare Housebouts",
         "description": "Dom Na Wodzie La Mare Houseboat offers a unique riverside retreat in the heart of Bydgoszcz, just steps from the Opera Nova Conference Centre and Town Hall. This air-conditioned floating apartment features two bedrooms, a cozy living room with a flat-screen TV, and a fully equipped kitchen with a dishwasher and microwave. Guests can relax on the private balcony or terrace, enjoying stunning river views.",
         "image": "/assets/images/la-mare-houseboats.jpg",
-        "link": "https://www.booking.com/hotel/pl/la-mare-apartamenty.en-gb.html",
-        "icon": "/assets/images/tailwindcss.svg"
+        "link": "https://www.booking.com/hotel/pl/la-mare-apartamenty.en-gb.html"
       },
       {
         "name": "Holiday Inn Bydgoszcz",
         "description": "Holiday Inn Bydgoszcz is a 4-star riverside hotel in Bydgoszcz city centre, with the city's charming Old Town only a short stroll away. ",
         "image": "/assets/images/holiday-inn.jpg",
-        "link": "https://www.ihg.com/holidayinn/hotels/gb/en/bydgoszcz/bzgzz/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PL-_-BZGZZ",
-        "icon": "/assets/images/nextjs.svg"
+        "link": "https://www.ihg.com/holidayinn/hotels/gb/en/bydgoszcz/bzgzz/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PL-_-BZGZZ"
       }
     ]
   },
