@@ -34,7 +34,7 @@
     "title": "Welcome to the Wedding of ",
     "subtitle": "Agata & Thomas",
     "description": "On June 28th, 2025, we will be celebrating our love in Bydgoszcz, at the stunning Boska Wenecja, located in the heart of the city. This website will provide you with all the information you need to join us as we begin this new chapter of our lives together. We look forward to showing you what Bydgoszcz has to offer.",
-    "img": "/assets/images/main-hero.jpg",
+    "img": "/assets/images/couple-photo.png",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -46,51 +46,51 @@
   },
   "venue": {
     "title": "Venue",
-    "subTitle": "The Venice of Bydgoszcz",
+    "subTitle": "Time and location",
     "items": [
       {
-        "title": "Event space and restaurant",
-        "description": "Nestled by the tranquil Młynówka River in Bydgoszcz, Boska Wenecja is a captivating venue that blends charm and versatility. It's the perfect setting for unforgettable weddings, lively concerts, and inspiring workshops. With cozy lodgings, artisanal dining, and even a craft brewery, it offers everything to delight your guests. Surrounded by stunning views of Wyspa Młyńska, Boska Wenecja promises not just an event but a magical experience, where every detail feels personal and inspired",
-        "img": "/assets/svgs/boskaWenecja-min.svg",
+        "title": "Ceramony location",
+        "description": "The ceramony will be taking place at the Bydgoszcz civil registry office location at Sielanka 8A, 85-073 Bydgoszcz.",
+        "img": "/assets/svgs/bride-groom.svg",
         "href": "https://www.boskawenecja.pl/"
       },
       {
-        "title": "Beer Museum",
-        "description": "Located within the Wyspa Młyńska Brewery complex and the Warzelnia Piwa restaurant and pub, you will find an interactive beer museum. The museum offers using a unique opportunity to explore the history of brewing while also highlighting contemporary brewing practices in Poland. The Beer Museum, alongside the Beer Brewery, forms a key part of the TeH2O tourist route, celebrating the rich industrial and craft heritage of Bydgoszcz",
-        "img": "/assets/images/MuzeumPiwa.jpg",
-        "href": "https://www.boskawenecja.pl/obiekty/muzeum-piwa-1"
+        "title": "Reception location",
+        "description": "After the ceramony we will convene at Boska Wenecja where the party will take place, located at Poznańska 8/14, 85-129 Bydgoszcz. \n\n Remeber to bring your dancing shoes :)",
+        "img": "/assets/images/boskaWenecjaEventRoom.jpg",
+        "href": "https://www.boskawenecja.pl/"
       }
     ]
   },
   "accommodation": {
     "title": "Bydgoszcz",
     "subtitle": "Hotels & Accomodation",
-    "description": "Bydgoszcz has plenty of places to stay, whether you're looking for something sleek and modern or a more intimate, homey vibe. Below, you'll find a selection of hotels located near the city center, close to the wedding venue, making it easy to explore Bydgoszcz while staying close to all the action.",
+    "description": "Bydgoszcz has plenty of places to stay ranging from budget hotels, hostels, luxury hotels and AirBnB's, many of which are located in a walking distance to the wedding venue. Below you'll find a list of recommendations nearby.",
     "items": [
       {
         "name": "Rezydencja Sowa",
-        "description": "Sowa Residence in Bydgoszcz is located in the heart of the Old Town, in the immediate vicinity of the most notable monuments of the city and the banks of the Brda River. Housed in a renovated historic building, the property offers a restaurant, confectionery, relaxation and conference areas.",
+        "description": "Sowa Residence is located in the heart of the Old Town, in the immediate vicinity of the most notable monuments of the city and the Brda River.",
         "image": "/assets/images/sowa-hotel.jpg",
         "link": "https://www.rezydencjasowa.pl/en/"
       },
       {
         "name": "La Mare Housebouts",
-        "description": "Dom Na Wodzie La Mare Houseboat offers a unique riverside retreat in the heart of Bydgoszcz, just steps from the Opera Nova Conference Centre and Town Hall. This air-conditioned floating apartment features two bedrooms, a cozy living room with a flat-screen TV, and a fully equipped kitchen with a dishwasher and microwave. From the private terrace, you'll be looking straight out onto the central river view of Bydgoszcz",
+        "description": "Dom Na Wodzie La Mare Houseboat offers a unique riverside retreat in the heart of Bydgoszcz, just steps from the Opera Nova Conference Centre and Town Hall. From the private terrace, you'll be looking straight out onto the central river view of Bydgoszcz.",
         "image": "/assets/images/la-mare-houseboats.jpg",
         "link": "https://www.booking.com/hotel/pl/la-mare-apartamenty.en-gb.html"
       },
       {
-        "name": "Holiday Inn Bydgoszcz",
-        "description": "Holiday Inn Bydgoszcz is a 4-star riverside hotel in Bydgoszcz city centre, with the city's charming Old Town only a short stroll away. ",
-        "image": "/assets/images/holiday-inn.jpg",
-        "link": "https://www.ihg.com/holidayinn/hotels/gb/en/bydgoszcz/bzgzz/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PL-_-BZGZZ"
+        "name": "Stara Drukarnia",
+        "description": "Stara Drukarnia rents out studio apartments at affordable prices. The apartments are location a 15 min walk from the wedding venue.",
+        "image": "/assets/images/stara-drukarnia.jpg",
+        "link": "https://www.booking.com/hotel/pl/stara-drukarnia-apartamenty-typu-studio-bydgoszcz.pl.html"
       }
     ]
   },
   "gifts": {
     "title": "Gifts",
     "subTitle": "Wishlist",
-    "description": "We are so excited to be getting married, and the only thing that we ask for is your company. However, should you wish to give us anything, we request that you give us cards, memories, and a bloody good wedding! If anyone wishes to give us gifts, we would appreciate donations towards our honeymoon."
+    "description": "Dear friends and family, here’s our plea, We’re dreaming of Turkey’s skies to see. A hot air balloon, so high, so bright, Would make our honeymoon pure delight.\n\nIf you’d like to help us take this flight, A little cash would feel just right. And instead of flowers, sweet and fair, coffee beans show how much you care.\n\nWith your sweet gift, we’ll toast to you, Each morning fresh, with a lovely brew!"
   },
   "menu": {
     "title": "Menu",
@@ -105,7 +105,14 @@
   "traditions": {
     "title": "Traditions",
     "subTitle": "Customs, Games and Wedding Traditions",
-    "description": "Comming soon..."
+    "description": "Comming soon...",
+    "items": [
+      {
+        "name": "Cutting of the socks and tie",
+        "description": "In danish tradition at the end of the bridal dance the male guests are to lift up the groom, take off his shoes, and cut a hole in his sock, and cut off his tie. There is of course no ill intent in this (but boys please, practice your steady hands). This tradition is to symoblise that the groom is no longer a bachelor, and therefore no longer needs to impress potential partners with his outfit. Certain sources also claim it is the first `task` for the bride to fix the socks afterwards, but we all know Thomas is perfectly capable of fixing his own damn socks",
+        "image": "/assets/images/sowa-hotel.jpg"
+      }
+    ]
   },
   "about": {
     "socialMedia": {

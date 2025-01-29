@@ -64,7 +64,9 @@ const Venue = () => {
               >
                 {secondItem?.title}
               </h3>
-              <p className={`text-gray-600 mb-8`}>{secondItem?.description}</p>
+              <p className={`text-gray-600 mb-8 whitespace-pre-line`}>
+                {secondItem?.description}
+              </p>
             </div>
           </div>
         </div>

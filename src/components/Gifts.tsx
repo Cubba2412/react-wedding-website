@@ -57,8 +57,8 @@ const Gifts = () => {
           </div>
 
           {/* Text Content */}
-          <div className="relative bg-white p-6 max-w-md rounded-lg shadow-lg text-center flex items-center">
-            <p className="text-base sm:text-lg leading-relaxed text-gray-600">
+          <div className="relative bg-white p-6 max-w-md rounded-lg shadow-lg text-left flex items-center">
+            <p className="text-base sm:text-lg leading-relaxed text-gray-600 whitespace-pre-line">
               {gifts.description}
             </p>
           </div>

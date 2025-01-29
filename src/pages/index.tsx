@@ -7,7 +7,6 @@ import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
-import Menu from '../components/Menu';
 import ThingsToDo from '../components/ThingsToDo';
 import Traditions from '../components/Traditions';
 import Venue from '../components/Venue';
@@ -41,9 +40,6 @@ const App = () => {
       </LazyShow>
       <LazyShow>
         <Gifts />
-      </LazyShow>
-      <LazyShow>
-        <Menu />
       </LazyShow>
       <LazyShow>
         <ThingsToDo />
