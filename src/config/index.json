@@ -36,7 +36,7 @@
     "description": "On June 28th, 2025, we will be celebrating our love in Bydgoszcz, at the stunning Boska Wenecja, located in the heart of the city. This website will provide you with all the information you need to join us as we begin this new chapter of our lives together. We look forward to showing you what Bydgoszcz has to offer.",
     "img": "/assets/images/couple-photo.png",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Please let us know if you're coming by 01/04/2025, through either text or call on +49015205843860 or +48515502321",
       "href": "#"
     },
     "secondaryAction": {
@@ -90,7 +90,7 @@
   "gifts": {
     "title": "Gifts",
     "subTitle": "Wishlist",
-    "description": "Dear friends and family, here’s our plea, We’re dreaming of Turkey’s skies to see. A hot air balloon, so high, so bright, Would make our honeymoon pure delight.\n\nIf you’d like to help us take this flight, A little cash would feel just right. And instead of flowers, sweet and fair, coffee beans show how much you care.\n\nWith your sweet gift, we’ll toast to you, Each morning fresh, with a lovely brew!"
+    "description": "Dear friends and family, here’s our plea, We’re dreaming of Turkey’s skies to see. A hot air balloon, so high, so bright, Would make our honeymoon pure delight. If you’d like to help us take this flight, A little cash would feel just right.\n\n And instead of flowers, sweet and fair, coffee beans show how much you care. With your sweet gift, we’ll toast to you, Each morning fresh, with a lovely brew!"
   },
   "menu": {
     "title": "Menu",
