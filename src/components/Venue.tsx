@@ -9,11 +9,14 @@ const Venue = () => {
 
   return (
     <section className={`bg-background py-8`} id="venue">
-      <div className={`container max-w-5xl mx-auto m-8`}>
+      <div className={`container max-w-5xl mx-auto m-8 lg:text-center`}>
+        <h2 className="text-base text-primary font-semibold tracking-wide uppercase">
+          {venue.title}
+        </h2>
         <h1
           className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
         >
-          {venue.title.split(' ').map((word, index) => (
+          {venue.subTitle.split(' ').map((word, index) => (
             <span
               key={index}
               className={index % 2 ? 'text-primary' : 'text-border'}

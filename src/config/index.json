@@ -31,9 +31,9 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "The Wedding Of ",
+    "title": "Welcome to the Wedding of ",
     "subtitle": "Agata & Thomas",
-    "description": "On June 28th, 2025, we will be celebrating our love in Bydgoszcz, at the stunning Boska Wenecja, located in the heart of the city. This website will provide you with all the information you need to join us as we begin this new chapter of our lives together. We can't wait to celebrate with all our family and friends.",
+    "description": "On June 28th, 2025, we will be celebrating our love in Bydgoszcz, at the stunning Boska Wenecja, located in the heart of the city. This website will provide you with all the information you need to join us as we begin this new chapter of our lives together. We look forward to showing you what Bydgoszcz has to offer.",
     "img": "/assets/images/main-hero.jpg",
     "primaryAction": {
       "text": "Get started",
@@ -45,7 +45,8 @@
     }
   },
   "venue": {
-    "title": "The Venice of Bydgoszcz",
+    "title": "Venue",
+    "subTitle": "The Venice of Bydgoszcz",
     "items": [
       {
         "title": "Event space and restaurant",
@@ -74,7 +75,7 @@
       },
       {
         "name": "La Mare Housebouts",
-        "description": "Dom Na Wodzie La Mare Houseboat offers a unique riverside retreat in the heart of Bydgoszcz, just steps from the Opera Nova Conference Centre and Town Hall. This air-conditioned floating apartment features two bedrooms, a cozy living room with a flat-screen TV, and a fully equipped kitchen with a dishwasher and microwave. Guests can relax on the private balcony or terrace, enjoying stunning river views.",
+        "description": "Dom Na Wodzie La Mare Houseboat offers a unique riverside retreat in the heart of Bydgoszcz, just steps from the Opera Nova Conference Centre and Town Hall. This air-conditioned floating apartment features two bedrooms, a cozy living room with a flat-screen TV, and a fully equipped kitchen with a dishwasher and microwave. From the private terrace, you'll be looking straight out onto the central river view of Bydgoszcz",
         "image": "/assets/images/la-mare-houseboats.jpg",
         "link": "https://www.booking.com/hotel/pl/la-mare-apartamenty.en-gb.html"
       },
@@ -94,7 +95,7 @@
   "menu": {
     "title": "Menu",
     "subTitle": "Culinary Delights from Two Cultures",
-    "description": "We'll be sharing a feast of modern Polish cuisine wtih you. Aditionally, we'll have some snacks from both Denmark and Poland, along with sparkling and non-sparkling wine, local craft beer and an assortment of sodas."
+    "description": "We'll be sharing a feast of modern Polish cuisine wtih you. Aditionally, we'll have some snacks from both Denmark and Poland, along with sparkling and non-sparkling wine, local craft beer and an assortment of sodas. \nVegan and glutenfree options are available, though please let us know before hand so we can inform the restaurant. "
   },
   "thingsToDo": {
     "title": "Bydgoszcz",
