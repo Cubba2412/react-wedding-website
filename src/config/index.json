@@ -51,14 +51,12 @@
       {
         "title": "Ceramony location",
         "description": "The ceramony will be taking place at the Bydgoszcz civil registry office location at Sielanka 8A, 85-073 Bydgoszcz.",
-        "img": "/assets/svgs/bride-groom.svg",
-        "href": "https://www.boskawenecja.pl/"
+        "img": "/assets/svgs/bride-groom.svg"
       },
       {
         "title": "Reception location",
         "description": "After the ceramony we will convene at Boska Wenecja where the party will take place, located at Poznańska 8/14, 85-129 Bydgoszcz. \n\n Remeber to bring your dancing shoes :)",
-        "img": "/assets/images/boskaWenecjaEventRoom.jpg",
-        "href": "https://www.boskawenecja.pl/"
+        "img": "/assets/images/boskaWenecjaEventRoom.jpg"
       }
     ]
   },
@@ -108,9 +106,9 @@
     "description": "Comming soon...",
     "items": [
       {
-        "name": "Cutting of the socks and tie",
-        "description": "In danish tradition at the end of the bridal dance the male guests are to lift up the groom, take off his shoes, and cut a hole in his sock, and cut off his tie. There is of course no ill intent in this (but boys please, practice your steady hands). This tradition is to symoblise that the groom is no longer a bachelor, and therefore no longer needs to impress potential partners with his outfit. Certain sources also claim it is the first `task` for the bride to fix the socks afterwards, but we all know Thomas is perfectly capable of fixing his own damn socks",
-        "image": "/assets/images/sowa-hotel.jpg"
+        "title": "Cutting of the socks, tie and veil",
+        "description": "In Danish tradition, at the end of the bridal dance, the male guests lift up the groom, take off his shoes, and cut a hole in his sock and cut off his tie. There is of course no ill intent in this (but boys please, practice your steady hands). This tradition symbolizes that the groom is no longer a bachelor and therefore no longer needs to impress potential partners with his outfit. Certain sources also claim it is the first \"task\" for the bride to fix the socks afterward, but we all know Thomas is perfectly capable of fixing his own damn socks.\n\n The brides veil is also to be wripped to pieces, symbolising that she is now a woman (in case the white dress didn't make it clear enough).",
+        "img": "/assets/svgs/sock-cutting-english.svg"
       }
     ]
   },
