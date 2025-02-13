@@ -36,7 +36,7 @@
     "description": "On June 28th, 2025, we will be celebrating our love in Bydgoszcz, at the stunning Boska Wenecja, located in the heart of the city. This website will provide you with all the information you need to join us as we begin this new chapter of our lives together. We look forward to showing you what Bydgoszcz has to offer.",
     "img": "/assets/images/couple-photo.png",
     "primaryAction": {
-      "text": "Please let us know if you're coming by 01/04/2025, through either text or call on +49015205843860 or +48515502321",
+      "text": "Please let us know if you're coming by 20/04/2025, through either text or call on +49015205843860 or +48515502321",
       "href": "#"
     },
     "secondaryAction": {
@@ -109,6 +109,11 @@
         "title": "Cutting of the socks, tie and veil",
         "description": "In Danish tradition, at the end of the bridal dance, the male guests lift up the groom, take off his shoes, and cut a hole in his sock and cut off his tie. There is of course no ill intent in this (but boys please, practice your steady hands). This tradition symbolizes that the groom is no longer a bachelor and therefore no longer needs to impress potential partners with his outfit. Certain sources also claim it is the first \"task\" for the bride to fix the socks afterward, but we all know Thomas is perfectly capable of fixing his own damn socks.\n\n The brides veil is also to be wripped to pieces, symbolising that she is now a woman (in case the white dress didn't make it clear enough).",
         "img": "/assets/svgs/sock-cutting-english.svg"
+      },
+      {
+        "title": "Clinking of the glasses and stomping of the floor",
+        "description": "In Danish tradition, it’s the guests who call the shots — literally — when it’s time for a kiss! Mid-meal, a if everyone starts tapping their glasses or plates the bride and groom must abandon their cutlery, rise from their seats, and share a passionate smooch (because sitting down just doesn't cut it).\n\nAnd just when they think they’re safe, here comes the stomp! A well-timed stampede of foot stomps sends them scurrying under the table for yet another kiss. For extra giggles, the guests may alternate between clinking and stomping, turning the newlyweds’ romance into a hilarious, romantic cross-fit training session.",
+        "img": "/assets/svgs/glass-and-stomp.svg"
       }
     ]
   },
