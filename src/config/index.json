@@ -88,7 +88,7 @@
   "gifts": {
     "title": "Gifts",
     "subTitle": "Wishlist",
-    "description": "Dear friends and family, here’s our plea, We’re dreaming of Turkey’s skies to see. A hot air balloon, so high, so bright, Would make our honeymoon pure delight. If you’d like to help us take this flight, A little cash would feel just right.\n\n And instead of flowers, sweet and fair, coffee beans show how much you care. With your sweet gift, we’ll toast to you, Each morning fresh, with a lovely brew!"
+    "description": "Dear friends and family, here’s our plea, We’re dreaming of Turkey’s skies to see. A hot air balloon, so high, so bright, Would make our honeymoon pure delight. If you’d like to help us take this flight, A little cash would feel just right.\n\n And instead of flowers, sweet and fair, coffee beans show how much you care. With your sweet gift, we’ll toast to you, Each morning fresh, with a lovely brew! ☕️"
   },
   "menu": {
     "title": "Menu",
@@ -114,6 +114,11 @@
         "title": "Clinking of the glasses and stomping of the floor",
         "description": "In Danish tradition, it’s the guests who call the shots — literally — when it’s time for a kiss! Mid-meal, a if everyone starts tapping their glasses or plates the bride and groom must abandon their cutlery, rise from their seats, and share a passionate smooch (because sitting down just doesn't cut it).\n\nAnd just when they think they’re safe, here comes the stomp! A well-timed stampede of foot stomps sends them scurrying under the table for yet another kiss. For extra giggles, the guests may alternate between clinking and stomping, turning the newlyweds’ romance into a hilarious, romantic cross-fit training session.",
         "img": "/assets/svgs/glass-and-stomp.svg"
+      },
+      {
+        "title": "Cheek-kissing of the bride and groom",
+        "description": "In Danish wedding traditions, leaving the room as the bride or groom has consequences! If the bride ever vacates the room, the ladies are on standby to pounce and plant a kiss on the grooms cheeck. Similarly should the groom dissapear, the gentlemen must quickly deliver a friendly cheek-kiss (so please bring your best breath mints).",
+        "img": "/assets/images/blow-kiss-emoji.png"
       }
     ]
   },
