@@ -1,9 +1,10 @@
 import React from 'react';
 
-import config from '../config/index.json';
+import { useLanguage } from '../hooks/language-context/useLanguageContext';
 
 const ThingsToDo = () => {
-  const { thingsToDo } = config;
+  const { translations } = useLanguage();
+  const { thingsToDo } = translations;
   const { title, subTitle, description } = thingsToDo;
 
   return (

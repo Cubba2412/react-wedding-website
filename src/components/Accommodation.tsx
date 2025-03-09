@@ -1,9 +1,10 @@
 import React from 'react';
 
-import config from '../config/index.json';
+import { useLanguage } from '../hooks/language-context/useLanguageContext';
 
 const Accommodation = () => {
-  const { accommodation } = config;
+  const { translations } = useLanguage();
+  const { accommodation } = translations;
   const {
     title,
     subtitle,

@@ -1,9 +1,10 @@
 import React from 'react';
 
-import config from '../config/index.json';
+import { useLanguage } from '../hooks/language-context/useLanguageContext';
 
 const MainHeroImage = () => {
-  const { mainHero } = config;
+  const { translations } = useLanguage();
+  const { mainHero } = translations;
   return (
     <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
       <img

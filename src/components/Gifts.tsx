@@ -1,10 +1,11 @@
 import React from 'react';
 
+import { useLanguage } from '../hooks/language-context/useLanguageContext';
+
 // import { Action, InteractivityProps } from 'lottie-react';
 // import dynamic from 'next/dynamic'; // Import dynamic from Next.js
 
 // import giftBoxAnimation from '../../public/assets/animations/gift-box.json';
-import config from '../config/index.json';
 
 // Dynamically import the Lottie component with ssr: false
 // const Lottie = dynamic(() => import('lottie-react'), { ssr: false });
@@ -31,7 +32,8 @@ import config from '../config/index.json';
 // };
 
 const Gifts = () => {
-  const { gifts } = config;
+  const { translations } = useLanguage();
+  const { gifts } = translations;
 
   return (
     <div

@@ -1,9 +1,10 @@
 import React from 'react';
 
-import config from '../config/index.json';
+import { useLanguage } from '../hooks/language-context/useLanguageContext';
 
 const Menu = () => {
-  const { menu } = config;
+  const { translations } = useLanguage();
+  const { menu } = translations;
   return (
     <div className={`py-12 bg-background`} id="thingsToDo">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

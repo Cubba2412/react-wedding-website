@@ -1,0 +1,126 @@
+{
+  "page": {
+    "name": "React landingsside 2021",
+    "logo": "/assets/svgs/logo2_black.svg"
+  },
+  "navigation": [
+    {
+      "name": "Sted",
+      "href": "venue"
+    },
+    {
+      "name": "Overnatning",
+      "href": "accommodation"
+    },
+    {
+      "name": "Gaver",
+      "href": "gifts"
+    },
+    {
+      "name": "Menu",
+      "href": "menu"
+    },
+    {
+      "name": "Ting at lave",
+      "href": "thingsToDo"
+    }
+  ],
+  "mainHero": {
+    "title": "Velkommen til brylluppet mellem",
+    "subtitle": "Agata & Thomas",
+    "description": "Den 28. juni 2025 fejrer vi vores kærlighed i Bydgoszcz på det fantastiske Boska Wenecja, beliggende i hjertet af byen. Denne hjemmeside giver dig alle de oplysninger, du har brug for, for at deltage i fejringen af vores nye kapitel sammen. Vi ser frem til at vise dig, hvad Bydgoszcz har at byde på.",
+    "img": "/assets/images/couple-photo.png",
+    "primaryAction": {
+      "text": "Lad os venligst vide, om du kommer senest den 20/04/2025, enten via sms eller opkald på +49015205843860 eller +48515502321",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Send os en e-mail",
+      "href": "mailto:issaafakattan@gmail.com?subject=Jeg kan lide react landingsside!"
+    }
+  },
+  "venue": {
+    "title": "Sted",
+    "subTitle": "Tid og sted",
+    "items": [
+      {
+        "title": "Ceremoniens sted",
+        "description": "Ceremonien finder sted på Bydgoszczs civilregistreringskontor, beliggende på Sielanka 8A, 85-073 Bydgoszcz.",
+        "img": "/assets/svgs/bride-groom.svg"
+      },
+      {
+        "title": "Receptionens sted",
+        "description": "Efter ceremonien samles vi på Boska Wenecja, hvor festen finder sted, beliggende på Poznańska 8/14, 85-129 Bydgoszcz.\n\n Husk at medbringe dine dansesko :)",
+        "img": "/assets/images/boskaWenecjaEventRoom.jpg"
+      }
+    ]
+  },
+  "accommodation": {
+    "title": "Bydgoszcz",
+    "subtitle": "Hoteller & Overnatning",
+    "description": "Bydgoszcz har masser af overnatningsmuligheder, lige fra budgethoteller og hostels til luksushoteller og AirBnB's, hvoraf mange ligger i gåafstand til bryllupsstedet. Nedenfor finder du en liste over anbefalinger i nærheden.",
+    "items": [
+      {
+        "name": "Rezydencja Sowa",
+        "description": "Sowa Residence ligger i hjertet af den gamle bydel, i umiddelbar nærhed af byens mest bemærkelsesværdige monumenter og floden Brda.",
+        "image": "/assets/images/sowa-hotel.jpg",
+        "link": "https://www.rezydencjasowa.pl/en/"
+      },
+      {
+        "name": "La Mare Houseboats",
+        "description": "Dom Na Wodzie La Mare Houseboat tilbyder et unikt ophold ved floden i hjertet af Bydgoszcz, kun få skridt fra Opera Nova Konferencecenter og Rådhuset. Fra den private terrasse får du en fantastisk udsigt over Bydgoszczs centrale flodlandskab.",
+        "image": "/assets/images/la-mare-houseboats.jpg",
+        "link": "https://www.booking.com/hotel/pl/la-mare-apartamenty.en-gb.html"
+      },
+      {
+        "name": "Stara Drukarnia",
+        "description": "Stara Drukarnia udlejer studiolejligheder til overkommelige priser. Lejlighederne ligger 15 minutters gang fra bryllupsstedet.",
+        "image": "/assets/images/stara-drukarnia.jpg",
+        "link": "https://www.booking.com/hotel/pl/stara-drukarnia-apartamenty-typu-studio-bydgoszcz.pl.html"
+      }
+    ]
+  },
+  "gifts": {
+    "title": "Gaver",
+    "subTitle": "Ønskeliste",
+    "description": "Kære venner og familie, her er vores bøn, Vi drømmer om Tyrkiets himmel så skøn. En luftballon, så høj, så fin, Vil gøre vores bryllupsrejse til ren magi. Hvis du vil hjælpe os på vej, En lille gave vil være dejlig for mig.\n\nOg i stedet for blomster, søde og små, Kaffebønner viser, at du tænker på os så. Med din søde gave vil vi skåle for dig, Hver morgen frisk, med dejlig kaffe i vej! ☕️"
+  },
+  "menu": {
+    "title": "Menu",
+    "subTitle": "Kulinariske Lækkerier fra To Kulturer",
+    "description": "Vi vil dele et festmåltid med moderne polsk køkken med jer. Derudover vil vi have snacks fra både Danmark og Polen samt mousserende og ikke-mousserende vin, lokalt håndværksøl og et udvalg af sodavand.\nVeganer- og glutenfri muligheder er tilgængelige, men giv os venligst besked på forhånd, så vi kan informere restauranten."
+  },
+  "thingsToDo": {
+    "title": "Bydgoszcz",
+    "subTitle": "Hvad man kan se og gøre",
+    "description": "Kommer snart..."
+  },
+  "traditions": {
+    "title": "Traditioner",
+    "subTitle": "Skikke, Lege og Bryllupstraditioner",
+    "description": "Kommer snart...",
+    "items": [
+      {
+        "title": "Klipning af sokker, slips og slør",
+        "description": "I dansk tradition, ved slutningen af brudevalsen, løfter de mandlige gæster brudgommen op, tager hans sko af og klipper et hul i hans sokker samt klipper hans slips af. Der er selvfølgelig ingen ond hensigt i dette (men drenge, øv jer lige på en rolig hånd). Traditionen symboliserer, at brudgommen ikke længere er en ungkarl og derfor ikke længere behøver at imponere potentielle partnere med sit outfit. Visse kilder hævder også, at det er brudens første ‘opgave’ at lappe sokkerne bagefter, men vi ved alle, at Thomas sagtens selv kan fikse sine egne sokker.\n\nBrudens slør rives også i stykker, hvilket symboliserer, at hun nu er en gift kvinde (hvis den hvide kjole ikke allerede gjorde det tydeligt nok).",
+        "img": "/assets/svgs/sock-cutting-english.svg"
+      },
+      {
+        "title": "Glas-klirren og fodstampen",
+        "description": "I dansk tradition er det gæsterne, der bestemmer – bogstaveligt talt – hvornår det er tid til et kys! Midt under måltidet, hvis alle begynder at klirre på deres glas eller tallerkener, skal brudeparret slippe deres bestik, rejse sig fra deres pladser og dele et passioneret kys (for at blive siddende er ikke godt nok).\n\nOg lige når de tror, de er i sikkerhed, kommer stampen! En velkoordineret fodstampning får dem til at kravle under bordet for endnu et kys. For ekstra sjov kan gæsterne skifte mellem klirren og stampen, så brudeparrets romantik bliver til en sjov, kærlig crossfit-træning.",
+        "img": "/assets/svgs/glass-and-stomp.svg"
+      },
+      {
+        "title": "Kys på kinden til brud og gom",
+        "description": "I danske bryllupstraditioner har det konsekvenser at forlade lokalet! Hvis bruden forlader rummet, står damerne klar til at overøse gommen med kindkys. Tilsvarende, hvis gommen forsvinder, må herrerne hurtigt træde til og give et venligt kindkys (så husk venligst din bedste ånde).",
+        "img": "/assets/images/blow-kiss-emoji.png"
+      }
+    ]
+  },
+  "about": {
+    "socialMedia": {
+      "github": "https://github.com/Cubba2412",
+      "linkedin": "https://www.linkedin.com/in/thomas-birk-frederiksen/"
+    }
+  }
+}

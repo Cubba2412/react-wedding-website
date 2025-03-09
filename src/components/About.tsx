@@ -1,10 +1,11 @@
 import React from 'react';
 
-import config from '../config/index.json';
+import { useLanguage } from '../hooks/language-context/useLanguageContext';
 
 const About = () => {
-  const { company, about } = config;
-  const { logo, name: companyName } = company;
+  const { translations } = useLanguage();
+  const { page, about } = translations;
+  const { logo, name } = page;
   const { socialMedia } = about;
 
   return (
@@ -14,7 +15,7 @@ const About = () => {
     >
       <div className="flex flex-col items-center justify-center">
         <div>
-          <img src={logo} alt={companyName} className="h-16 w-auto sm:h-16" />
+          <img src={logo} alt={name} className="h-16 w-auto sm:h-16" />
         </div>
         {/* <div className="flex flex-wrap sm:gap-10 gap-8 items-center justify-center mt-4 h-12">
           {sections.map((section, index) => (

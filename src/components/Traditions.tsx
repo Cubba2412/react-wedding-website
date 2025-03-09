@@ -1,10 +1,11 @@
 import React from 'react';
 
 import Divider from './Divider';
-import config from '../config/index.json';
+import { useLanguage } from '../hooks/language-context/useLanguageContext';
 
 const Traditions = () => {
-  const { traditions } = config;
+  const { translations } = useLanguage();
+  const { traditions } = translations;
   const { title, subTitle, items } = traditions;
   return (
     <section className="bg-background py-8" id="venue">

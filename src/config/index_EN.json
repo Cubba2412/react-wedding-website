@@ -1,5 +1,5 @@
 {
-  "company": {
+  "page": {
     "name": "React landing page 2021",
     "logo": "/assets/svgs/logo2_black.svg"
   },
@@ -26,12 +26,8 @@
       "href": "thingsToDo"
     }
   ],
-  "callToAction": {
-    "text": "Get started",
-    "href": "#"
-  },
   "mainHero": {
-    "title": "Welcome to the Wedding of ",
+    "title": "Welcome to the wedding of ",
     "subtitle": "Agata & Thomas",
     "description": "On June 28th, 2025, we will be celebrating our love in Bydgoszcz, at the stunning Boska Wenecja, located in the heart of the city. This website will provide you with all the information you need to join us as we begin this new chapter of our lives together. We look forward to showing you what Bydgoszcz has to offer.",
     "img": "/assets/images/couple-photo.png",
@@ -49,13 +45,13 @@
     "subTitle": "Time and location",
     "items": [
       {
-        "title": "Ceramony location",
-        "description": "The ceramony will be taking place at the Bydgoszcz civil registry office location at Sielanka 8A, 85-073 Bydgoszcz.",
+        "title": "Ceremony location",
+        "description": "The ceremony will be taking place at the Bydgoszcz civil registry office location at Sielanka 8A, 85-073 Bydgoszcz.",
         "img": "/assets/svgs/bride-groom.svg"
       },
       {
         "title": "Reception location",
-        "description": "After the ceramony we will convene at Boska Wenecja where the party will take place, located at Poznańska 8/14, 85-129 Bydgoszcz. \n\n Remeber to bring your dancing shoes :)",
+        "description": "After the ceremony we will convene at Boska Wenecja where the party will take place, located at Poznańska 8/14, 85-129 Bydgoszcz. \n\n Remeber to bring your dancing shoes :)",
         "img": "/assets/images/boskaWenecjaEventRoom.jpg"
       }
     ]
@@ -88,7 +84,7 @@
   "gifts": {
     "title": "Gifts",
     "subTitle": "Wishlist",
-    "description": "Dear friends and family, here’s our plea, We’re dreaming of Turkey’s skies to see. A hot air balloon, so high, so bright, Would make our honeymoon pure delight. If you’d like to help us take this flight, A little cash would feel just right.\n\n And instead of flowers, sweet and fair, coffee beans show how much you care. With your sweet gift, we’ll toast to you, Each morning fresh, with a lovely brew! ☕️"
+    "description": "Dear friends and family, here’s our plea, \nWe’re dreaming of Turkey’s skies to see. \nA hot air balloon, so high, so bright, \nWould make our honeymoon pure delight. \nIf you’d like to help us take this flight, \nA little cash would feel just right.\n\n And instead of flowers, sweet and fair, coffee beans show how much you care. \nWith your sweet gift, we’ll toast to you, \nEach morning fresh, with a lovely brew! ☕️"
   },
   "menu": {
     "title": "Menu",

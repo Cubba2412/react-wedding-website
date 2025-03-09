@@ -1,10 +1,11 @@
 import React from 'react';
 
 import Divider from './Divider';
-import config from '../config/index.json';
+import { useLanguage } from '../hooks/language-context/useLanguageContext';
 
 const Venue = () => {
-  const { venue } = config;
+  const { translations } = useLanguage();
+  const { venue } = translations;
   const [firstItem, secondItem] = venue.items;
 
   return (

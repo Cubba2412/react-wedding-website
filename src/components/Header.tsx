@@ -4,11 +4,13 @@ import { Popover, Transition } from '@headlessui/react';
 import { MenuIcon, XIcon } from '@heroicons/react/outline';
 import { Link } from 'react-scroll';
 
-import config from '../config/index.json';
+import LanguageSwitcher from './LanguageSwitcher';
+import { useLanguage } from '../hooks/language-context/useLanguageContext';
 
 const Header = () => {
-  const { navigation, company } = config;
-  const { name: companyName, logo } = company;
+  const { translations } = useLanguage();
+  const { navigation, page } = translations;
+  const { name, logo } = page;
 
   return (
     <>
@@ -25,26 +27,24 @@ const Header = () => {
       <Popover>
         <div className="relative pt-6 px-4 sm:px-6 lg:px-8">
           <nav
-            className="relative flex items-center justify-between sm:h-10 lg:justify-start"
+            className="relative flex items-center justify-between sm:h-10 lg:justify-start w-full"
             aria-label="Global"
           >
             <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
               <div className="flex items-center justify-between w-full md:w-auto">
                 <a href="#">
-                  <span className="sr-only">{companyName}</span>
+                  <span className="sr-only">{name}</span>
                   <img alt="logo" className="h-16 w-auto sm:h-16" src={logo} />
                 </a>
                 <div className="-mr-2 flex items-center md:hidden">
-                  <Popover.Button
-                    className={`bg-background rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-secondary`}
-                  >
+                  <Popover.Button className="bg-background rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-secondary">
                     <span className="sr-only">Open main menu</span>
                     <MenuIcon className="h-6 w-6" aria-hidden="true" />
                   </Popover.Button>
                 </div>
               </div>
             </div>
-            <div className="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
+            <div className="hidden md:flex md:ml-10 md:pr-4 md:space-x-8 items-center">
               {navigation.map((item) => (
                 <Link
                   spy={true}
@@ -58,6 +58,7 @@ const Header = () => {
                   {item.name}
                 </Link>
               ))}
+              <LanguageSwitcher className="px-3 pb-0 pt-1 !ml-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" />
             </div>
           </nav>
         </div>
@@ -106,6 +107,7 @@ const Header = () => {
                   </Link>
                 ))}
               </div>
+              <LanguageSwitcher className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" />
             </div>
           </Popover.Panel>
         </Transition>
