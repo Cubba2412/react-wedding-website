@@ -11,7 +11,7 @@ const Venue = () => {
   return (
     <section className={`bg-background py-8`} id="venue">
       <div className={`container max-w-5xl mx-auto m-8 lg:text-center`}>
-        <h2 className="text-base text-primary font-semibold tracking-wide uppercase">
+        <h2 className="text-base text-primary font-semibold tracking-wide uppercase text-center">
           {venue.title}
         </h2>
         <h1
@@ -28,7 +28,7 @@ const Venue = () => {
         </h1>
         <Divider />
         <div className={`flex flex-wrap`}>
-          <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
+          <div className={`sm:w-1/2 p-6 mt-20`}>
             <h3
               className={`text-3xl text-gray-800 font-bold leading-none mb-3`}
             >

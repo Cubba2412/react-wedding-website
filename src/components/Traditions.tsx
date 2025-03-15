@@ -20,7 +20,7 @@ const Traditions = () => {
   return (
     <section className="bg-background py-8" id="traditions">
       <div className="container max-w-5xl mx-auto m-8 lg:text-center">
-        <h2 className="text-base text-primary font-semibold tracking-wide uppercase">
+        <h2 className="text-base text-primary font-semibold tracking-wide uppercase text-center">
           {title}
         </h2>
         <h1 className="w-full my-2 text-5xl font-bold leading-tight text-center text-primary">
@@ -39,7 +39,7 @@ const Traditions = () => {
         {sections.map((section, sectionIndex) => (
           <div key={sectionIndex}>
             {/* Render Section Header */}
-            <h2 className="text-3xl font-bold text-primary mb-4">
+            <h2 className="text-3xl font-bold text-primary mb-4 text-center">
               {section.title}
             </h2>
 

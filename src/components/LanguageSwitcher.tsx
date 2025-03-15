@@ -29,7 +29,11 @@ const LanguageSwitcher: React.FC<{ className: string }> = ({ className }) => {
           leaveFrom="opacity-100 scale-100"
           leaveTo="opacity-0 scale-95"
         >
-          <Menu.Items className="absolute left-0 top-full mt-2 bg-white shadow-lg flex flex-col p-2 rounded-md">
+          <Menu.Items
+            className="mt-2 bg-white shadow-lg flex flex-col p-2 rounded-md z-50 w-auto
+              lg:absolute lg:left-0 lg:top-full lg:mt-2 lg:w-auto
+              md:fixed md:block md:mt-2 md:w-full"
+          >
             {languages.map((lang: string) => (
               <Menu.Item key={lang}>
                 <button

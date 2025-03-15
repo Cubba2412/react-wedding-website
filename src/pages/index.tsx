@@ -15,7 +15,7 @@ import { LanguageProvider } from '../hooks/language-context/LanguageContext';
 const App = () => {
   return (
     <LanguageProvider>
-      <div className={`bg-background grid gap-y-16 overflow-hidden`}>
+      <div className={`bg-background grid gap-y-4 overflow-hidden`}>
         <div className={`relative bg-background`}>
           <div className="max-w-7xl mx-auto">
             <div
