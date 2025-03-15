@@ -5,33 +5,34 @@
   },
   "navigation": [
     {
-      "name": "Sted",
+      "name": "Lokation",
       "href": "venue"
     },
-    {
-      "name": "Overnatning",
-      "href": "accommodation"
-    },
+
     {
       "name": "Gaver",
       "href": "gifts"
     },
     {
-      "name": "Menu",
-      "href": "menu"
+      "name": "Traditioner",
+      "href": "traditions"
     },
     {
-      "name": "Ting at lave",
+      "name": "Ting at se",
       "href": "thingsToDo"
+    },
+    {
+      "name": "Overnatning",
+      "href": "accommodation"
     }
   ],
   "mainHero": {
     "title": "Velkommen til brylluppet mellem",
     "subtitle": "Agata & Thomas",
-    "description": "Den 28. juni 2025 fejrer vi vores kærlighed i Bydgoszcz på det fantastiske Boska Wenecja, beliggende i hjertet af byen. Denne hjemmeside giver dig alle de oplysninger, du har brug for, for at deltage i fejringen af vores nye kapitel sammen. Vi ser frem til at vise dig, hvad Bydgoszcz har at byde på.",
+    "description": "Den 28. juni 2025 fejrer vi vores kærlighed i Bydgoszcz på det fantastiske Boska Wenecja, beliggende i hjertet af byen. Denne hjemmeside indeholder alle de oplysninger, du har brug for, for at deltage i fejringen af vores nye kapitel sammen. Vi ser frem til at vise dig, hvad Bydgoszcz har at byde på.",
     "img": "/assets/images/couple-photo.png",
     "primaryAction": {
-      "text": "Lad os venligst vide, om du kommer senest den 20/04/2025, enten via sms eller opkald på +49015205843860 eller +48515502321",
+      "text": "Lad os venligst vide, om du/i kommer senest den 20/04/2025, enten via sms eller opkald på +49015205843860 eller +48515502321",
       "href": "#"
     },
     "secondaryAction": {
@@ -40,17 +41,17 @@
     }
   },
   "venue": {
-    "title": "Sted",
+    "title": "Lokation",
     "subTitle": "Tid og sted",
     "items": [
       {
-        "title": "Ceremoniens sted",
-        "description": "Ceremonien finder sted på Bydgoszczs civilregistreringskontor, beliggende på Sielanka 8A, 85-073 Bydgoszcz.",
+        "title": "Ceremonien",
+        "description": "Ceremonien finder sted kl. 16:00 på Bydgoszczs civilregistreringskontor, beliggende på Sielanka 8A, 85-073 Bydgoszcz.",
         "img": "/assets/svgs/bride-groom.svg"
       },
       {
-        "title": "Receptionens sted",
-        "description": "Efter ceremonien samles vi på Boska Wenecja, hvor festen finder sted, beliggende på Poznańska 8/14, 85-129 Bydgoszcz.\n\n Husk at medbringe dine dansesko :)",
+        "title": "Receptionen",
+        "description": "Efter ceremonien samles vi på Boska Wenecja, hvor festen finder sted, beliggende på Poznańska 8/14, 85-129 Bydgoszcz.\n\n Husk at medbringe danseskoene :)",
         "img": "/assets/images/boskaWenecjaEventRoom.jpg"
       }
     ]
@@ -58,7 +59,7 @@
   "accommodation": {
     "title": "Bydgoszcz",
     "subtitle": "Hoteller & Overnatning",
-    "description": "Bydgoszcz har masser af overnatningsmuligheder, lige fra budgethoteller og hostels til luksushoteller og AirBnB's, hvoraf mange ligger i gåafstand til bryllupsstedet. Nedenfor finder du en liste over anbefalinger i nærheden.",
+    "description": "Bydgoszcz har masser af overnatningsmuligheder, lige fra budgethoteller og hostels til luksushoteller og AirBnB's, hvoraf mange ligger i gåafstand til bryllupsstedet. Nedenfor finder du en liste over hyggelige muligheder i nærheden.",
     "items": [
       {
         "name": "Rezydencja Sowa",
@@ -83,7 +84,7 @@
   "gifts": {
     "title": "Gaver",
     "subTitle": "Ønskeliste",
-    "description": "Kære venner og familie, her er vores bøn, Vi drømmer om Tyrkiets himmel så skøn. En luftballon, så høj, så fin, Vil gøre vores bryllupsrejse til ren magi. Hvis du vil hjælpe os på vej, En lille gave vil være dejlig for mig.\n\nOg i stedet for blomster, søde og små, Kaffebønner viser, at du tænker på os så. Med din søde gave vil vi skåle for dig, Hver morgen frisk, med dejlig kaffe i vej! ☕️"
+    "description": "Kære venner og familie, her er vores bøn,\nVi drømmer om Tyrkiets himmel - vores bryllupsrejse vil være så skøn.\nEn luftballon, så høj og klar,\nVil gøre rejsen helt vidunderlig og rar.\nHvis du vil hjælpe os med at nå det blå,\nSå smid en skilling i kassen - vi lover du får et smil med på.\n\nOg i stedet for blomster, fine og små,\nEr kaffebønner vejen at gå.\nMed gaven skåler vi hver dag,\nKopper – der nydes i behag! ☕️"
   },
   "menu": {
     "title": "Menu",
@@ -92,28 +93,67 @@
   },
   "thingsToDo": {
     "title": "Bydgoszcz",
-    "subTitle": "Hvad man kan se og gøre",
+    "subTitle": "Hvad man kan se og opleve",
     "description": "Kommer snart..."
   },
   "traditions": {
     "title": "Traditioner",
     "subTitle": "Skikke, Lege og Bryllupstraditioner",
-    "description": "Kommer snart...",
-    "items": [
+    "sections": [
       {
-        "title": "Klipning af sokker, slips og slør",
-        "description": "I dansk tradition, ved slutningen af brudevalsen, løfter de mandlige gæster brudgommen op, tager hans sko af og klipper et hul i hans sokker samt klipper hans slips af. Der er selvfølgelig ingen ond hensigt i dette (men drenge, øv jer lige på en rolig hånd). Traditionen symboliserer, at brudgommen ikke længere er en ungkarl og derfor ikke længere behøver at imponere potentielle partnere med sit outfit. Visse kilder hævder også, at det er brudens første ‘opgave’ at lappe sokkerne bagefter, men vi ved alle, at Thomas sagtens selv kan fikse sine egne sokker.\n\nBrudens slør rives også i stykker, hvilket symboliserer, at hun nu er en gift kvinde (hvis den hvide kjole ikke allerede gjorde det tydeligt nok).",
-        "img": "/assets/svgs/sock-cutting-english.svg"
+        "title": "Danske Bryllups Traditioner",
+        "items": [
+          {
+            "title": "Klipning af sokker, slips og slør",
+            "description": "I dansk tradition, ved slutningen af brudevalsen, løfter de mandlige gæster brudgommen op, tager hans sko af og klipper et hul i hans sokker samt klipper hans slips af. Der er selvfølgelig ingen ond hensigt i dette (men drenge, øv jer lige på en rolig hånd). Traditionen symboliserer, at brudgommen ikke længere er en ungkarl og derfor ikke længere behøver at imponere potentielle partnere med sit outfit. Visse kilder hævder også, at det er brudens første ‘opgave’ at lappe sokkerne bagefter, men vi ved alle, at Thomas er voksen nok til at fikse sine egne sokker.\n\nBrudens slør rives også i stykker, hvilket symboliserer, at hun nu er en gift kvinde (hvis den hvide kjole ikke allerede gjorde det tydeligt nok).",
+            "img": "/assets/svgs/sock-cutting-english.svg"
+          },
+          {
+            "title": "Glas-klirren og fodstampen",
+            "description": "I dansk tradition er det gæsterne, der bestemmer – bogstaveligt talt – hvornår det er tid til et kys! Midt under måltidet, hvis alle begynder at klirre på deres glas eller tallerkener, skal brudeparret slippe deres bestik, rejse sig fra deres pladser og dele et passioneret kys (for at blive siddende er ikke godt nok).\n\nOg lige når de tror, de er i sikkerhed, kommer der en bølge af fodstamp! En velkoordineret fodstampning får dem til at kravle under bordet for endnu et kys. For ekstra sjov kan gæsterne skifte mellem klirren og stampen, så brudeparrets romantik bliver til en sjov, kærlig crossfit-træning.",
+            "img": "/assets/svgs/glass-and-stomp.svg"
+          },
+          {
+            "title": "Kys på kinden til brud og gom",
+            "description": "I danske bryllupstraditioner har det konsekvenser at forlade lokalet! Hvis bruden forlader rummet, står damerne klar til at overøse gommen med kindkys. Tilsvarende, hvis gommen forsvinder, må herrerne hurtigt træde til og give et venligt kindkys (så husk venligst mintpastillerne).",
+            "img": "/assets/images/blow-kiss-emoji.png"
+          }
+        ]
       },
       {
-        "title": "Glas-klirren og fodstampen",
-        "description": "I dansk tradition er det gæsterne, der bestemmer – bogstaveligt talt – hvornår det er tid til et kys! Midt under måltidet, hvis alle begynder at klirre på deres glas eller tallerkener, skal brudeparret slippe deres bestik, rejse sig fra deres pladser og dele et passioneret kys (for at blive siddende er ikke godt nok).\n\nOg lige når de tror, de er i sikkerhed, kommer stampen! En velkoordineret fodstampning får dem til at kravle under bordet for endnu et kys. For ekstra sjov kan gæsterne skifte mellem klirren og stampen, så brudeparrets romantik bliver til en sjov, kærlig crossfit-træning.",
-        "img": "/assets/svgs/glass-and-stomp.svg"
-      },
-      {
-        "title": "Kys på kinden til brud og gom",
-        "description": "I danske bryllupstraditioner har det konsekvenser at forlade lokalet! Hvis bruden forlader rummet, står damerne klar til at overøse gommen med kindkys. Tilsvarende, hvis gommen forsvinder, må herrerne hurtigt træde til og give et venligt kindkys (så husk venligst din bedste ånde).",
-        "img": "/assets/images/blow-kiss-emoji.png"
+        "title": "Polske Bryllupstraditioner",
+        "items": [
+          {
+            "title": "Brød og Salt Velkomst",
+            "description": "Efter bryllupsseremonien, når de nygifte ankommer til festlokalet, bliver de traditionelt mødt af deres forældre med brød og salt (bare rolig, der vil også være andet mad). Brødet repræsenterer velstand og overflod, og sikrer, at parret aldrig vil gå sultne. Saltet symboliserer livets prøvelser og minder dem om, at de skal møde udfordringer sammen med styrke og modstandskraft.",
+            "img": "/assets/svgs/bread_and_salt.svg"
+          },
+          {
+            "title": "Oczepiny (Afsløringsceremoni)",
+            "description": "Ved midnat finder den traditionelle “Oczepiny” ceremoni sted, som markerer brudens overgang fra ung pige til gift kvinde. I de historiske polske bryllupper blev brudens slør fjernet og erstattet med en traditionel hætte eller bonnet, som symboliserede hendes nye status som hustru. I dag er denne tradition blevet mere moderne og festlig, og inkluderer ofte sjove spil for både bruden og brudgommen. \n\nDen mest almindelige aktivitet er buket- og strømpebåndkast — ugifte kvinder samles for at konkurrere om ~~den ultimative titel som Buket Batalje Mester~~ chancen for at gribe brudens buket, mens de ugifte mænd ~~kæmper i en hæmningsløst strømpebånd-opgør~~ prøver at vinde brudgomens strømpebånd, hvilket skulle forudse hvem der er den næste til at gifte sig.",
+            "img": "/assets/svgs/bouquet-toss.svg"
+          },
+          {
+            "title": "Zbieranie “na wózek” (Indsamling til Barnevognen)",
+            "description": "Denne polske bryllupstradition er en sjov og symbolsk måde for gæsterne at bidrage til de nygiftes fremtidige familieliv. Under bryllupsreceptionen placeres en lille kasse eller en dukkevogn i midten af dansegulvet. Gæsterne kan invitere bruden eller brudgommen til en dans, men til gengæld skal de lægge et lille pengebeløb i kassen eller vognen. De indsamlede penge siges traditionelt at fungere som en “startkapital” til parrets første barn (det andet må klare sig selv, tilsyneladende), og sikrer en velstående og lykkelig fremtid for deres voksende familie.",
+            "img": "/assets/svgs/stroller.svg"
+          },
+          {
+            "title": "Gorzko! (Den “Bitre” Kys Tradition)",
+            "description": "En af de mest underholdende og interaktive polske bryllupstraditioner er råbene af “Gorzko! Gorzko!”, som oversættes til “Bitter! Bitter!”. Under bryllupsreceptionen begynder gæsterne at råbe denne sætning, hvilket antyder, at noget er “bittert” og skal sødes. Den eneste måde at gøre det på? De nygifte skal kysse!",
+            "img": "/assets/svgs/kissing-couple.svg"
+          },
+          {
+            "title": "Bramy Weselne (Bryllupsvejblokader)",
+            "description": "I Polen er rejsen til ægteskabet ikke kun symbolsk – den kommer nogle gange med faktiske forhindringer! Bramy weselne, eller bryllupsvejblokader, er en morsom tradition, hvor venner, naboer eller endda fremmede ~~tackler~~ blokkerer vejen for de nygifte på vej til kirken eller receptionen. Denne skik er særligt populær i Silesia, hvor den er kendt som szlogi. \n\nTraditionelt blev disse vejblokader lavet med reb, farverige bånd og blomster, hvilket skabte en festlig barriere, som parret skulle overvinde. I dag har traditionen udviklet sig til et mere kreativt og humoristisk event, ofte med kostumer, spil og endda tematiske udfordringer. Målet? At stoppe bryllupsprocessionen et øjeblik og få parret til at arbejde for deres passage.\n\nFor at få lov til at passere skal bruden og brudgommen “betale bompenge”, hvilket normalt betyder at give en flaske vodka eller små gaver til dem, der har sat vejblokaden op. Nogle gange kræves det også, at de udfører opgaver, såsom at svare på sjove spørgsmål om deres forhold eller gennemføre små udfordringer.",
+            "img": "/assets/svgs/road-block.svg"
+          },
+          {
+            "title": "Smadring af champagneglas",
+            "description": "I Polen er smadring af champagneglas en langvarig tradition ved bryllupper for at bringe de nygifte held (dog kun de nygifte). Så hvis du må give efter for trangen til at smadre noget, så gør det venligst inden du ankommer til brylluppet – helst i dit eget hjem, langt væk fra uskyldige glas.\n\nEfter den første skål smadrer de nygifte deres glas på gulvet, med troen på, at jo flere skår der er, desto lykkeligere vil deres ægteskab være. Det er også en symbolsk måde at sige, at ligesom det knuste glas ikke kan sættes sammen igen, bør deres bånd forblive ubrydeligt.",
+            "img": "/assets/svgs/broken-glass.svg"
+          }
+        ]
       }
     ]
   },

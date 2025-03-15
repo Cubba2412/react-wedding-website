@@ -9,21 +9,20 @@
       "href": "venue"
     },
     {
-      "name": "Accommodation",
-      "href": "accommodation"
-    },
-
-    {
       "name": "Gifts",
       "href": "gifts"
     },
     {
-      "name": "Menu",
-      "href": "menu"
+      "name": "Traditions",
+      "href": "traditions"
     },
     {
       "name": "Things To Do",
       "href": "thingsToDo"
+    },
+    {
+      "name": "Accommodation",
+      "href": "accommodation"
     }
   ],
   "mainHero": {
@@ -46,7 +45,7 @@
     "items": [
       {
         "title": "Ceremony location",
-        "description": "The ceremony will be taking place at the Bydgoszcz civil registry office location at Sielanka 8A, 85-073 Bydgoszcz.",
+        "description": "The ceremony will be taking place at 16:00 at the Bydgoszcz civil registry office located at Sielanka 8A, 85-073 Bydgoszcz",
         "img": "/assets/svgs/bride-groom.svg"
       },
       {
@@ -99,22 +98,61 @@
   "traditions": {
     "title": "Traditions",
     "subTitle": "Customs, Games and Wedding Traditions",
-    "description": "Comming soon...",
-    "items": [
+    "sections": [
       {
-        "title": "Cutting of the socks, tie and veil",
-        "description": "In Danish tradition, at the end of the bridal dance, the male guests lift up the groom, take off his shoes, and cut a hole in his sock and cut off his tie. There is of course no ill intent in this (but boys please, practice your steady hands). This tradition symbolizes that the groom is no longer a bachelor and therefore no longer needs to impress potential partners with his outfit. Certain sources also claim it is the first \"task\" for the bride to fix the socks afterward, but we all know Thomas is perfectly capable of fixing his own damn socks.\n\n The brides veil is also to be wripped to pieces, symbolising that she is now a woman (in case the white dress didn't make it clear enough).",
-        "img": "/assets/svgs/sock-cutting-english.svg"
+        "title": "Danish Wedding Traditions",
+        "items": [
+          {
+            "title": "Cutting of the socks, tie and veil",
+            "description": "In Danish tradition, at the end of the bridal dance, the male guests lift up the groom, take off his shoes, and cut a hole in his sock and cut off his tie. There is of course no ill intent in this (but boys please, practice your steady hands). This tradition symbolizes that the groom is no longer a bachelor and therefore no longer needs to impress potential partners with his outfit. Certain sources also claim it is the first \"task\" for the bride to fix the socks afterward, but we all know Thomas is perfectly capable of fixing his own damn socks.\n\n The brides veil is also to be wripped to pieces, symbolising that she is now a woman (in case the white dress didn't make it clear enough).",
+            "img": "/assets/svgs/sock-cutting-english.svg"
+          },
+          {
+            "title": "Clinking of the glasses and stomping of the floor",
+            "description": "In Danish tradition, it’s the guests who call the shots — literally — when it’s time for a kiss! Mid-meal, a if everyone starts tapping their glasses or plates the bride and groom must abandon their cutlery, rise from their seats, and share a passionate smooch (because sitting down just doesn't cut it).\n\nAnd just when they think they’re safe, here comes the stomp! A well-timed stampede of foot stomps sends them scurrying under the table for yet another kiss. For extra giggles, the guests may alternate between clinking and stomping, turning the newlyweds’ romance into a hilarious, romantic cross-fit training session.",
+            "img": "/assets/svgs/glass-and-stomp.svg"
+          },
+          {
+            "title": "Cheek-kissing of the bride and groom",
+            "description": "In Danish wedding traditions, leaving the room as the bride or groom has consequences! If the bride ever vacates the room, the ladies are on standby to pounce and plant a kiss on the grooms cheeck. Similarly should the groom dissapear, the gentlemen must quickly deliver a friendly cheek-kiss (so please bring your best breath mints).",
+            "img": "/assets/images/blow-kiss-emoji.png"
+          }
+        ]
       },
       {
-        "title": "Clinking of the glasses and stomping of the floor",
-        "description": "In Danish tradition, it’s the guests who call the shots — literally — when it’s time for a kiss! Mid-meal, a if everyone starts tapping their glasses or plates the bride and groom must abandon their cutlery, rise from their seats, and share a passionate smooch (because sitting down just doesn't cut it).\n\nAnd just when they think they’re safe, here comes the stomp! A well-timed stampede of foot stomps sends them scurrying under the table for yet another kiss. For extra giggles, the guests may alternate between clinking and stomping, turning the newlyweds’ romance into a hilarious, romantic cross-fit training session.",
-        "img": "/assets/svgs/glass-and-stomp.svg"
-      },
-      {
-        "title": "Cheek-kissing of the bride and groom",
-        "description": "In Danish wedding traditions, leaving the room as the bride or groom has consequences! If the bride ever vacates the room, the ladies are on standby to pounce and plant a kiss on the grooms cheeck. Similarly should the groom dissapear, the gentlemen must quickly deliver a friendly cheek-kiss (so please bring your best breath mints).",
-        "img": "/assets/images/blow-kiss-emoji.png"
+        "title": "Polish Wedding Traditions",
+        "items": [
+          {
+            "title": "Bread and Salt Welcome",
+            "description": "After the wedding ceremony, when the newlyweds arrive at the reception venue, they are traditionally greeted by their parents with bread and salt (don't worry there will be other food). The bread represents prosperity and abundance, ensuring that the couple will never go hungry. The salt symbolizes life’s hardships, reminding them that they must face challenges together with strength and resilience.",
+            "img": "/assets/svgs/bread_and_salt.svg"
+          },
+          {
+            "title": "Oczepiny (Unveiling Ceremony)",
+            "description": "At midnight, the traditional “Oczepiny” ceremony takes place, marking the bride’s transition from a maiden to a married woman. In historical Polish weddings, the bride’s veil was removed and replaced with a traditional cap or bonnet, symbolizing her new status as a wife. Today, this tradition is more modern and playful, often including fun games for both the bride and groom. \n\nThe most common activity is the bouquet and garter toss — unmarried women gather  to compete for the ~~ultimate title of Bouquet Battle Champion~~ chance to catch the bride’s bouquet, while the single men ~~compete in a no-holds-barred garter showdown~~ try to win the groom’s garter, predicting who might be the next to marry.",
+            "img": "/assets/svgs/bouquet-toss.svg"
+          },
+          {
+            "title": "Zbieranie “na wózek” (Collecting for the Baby Carriage)",
+            "description": "This Polish wedding tradition is a fun and symbolic way for guests to contribute to the newlyweds’ future family life. During the wedding reception, a small box or a doll stroller is placed in the center of the dance floor. Guests can invite the bride or groom for a dance, but in exchange, they must place a small monetary contribution into the box or stroller. The collected money is traditionally believed to serve as a “starter fund” for the couple’s first child (the second one is on their own it seems), ensuring a prosperous and happy future for their growing family.",
+            "img": "/assets/svgs/stroller.svg"
+          },
+          {
+            "title": "Gorzko! (The “Bitter” Kiss Tradition)",
+            "description": "One of the most entertaining and interactive Polish wedding traditions is the chanting of “Gorzko! Gorzko!”, which translates to “Bitter! Bitter!”. During the wedding reception, guests start calling out this phrase, implying that something is “bitter” and needs to be sweetened. The only way to do so? The newlyweds must kiss!",
+            "img": "/assets/svgs/kissing-couple.svg"
+          },
+          {
+            "title": "Bramy Weselne (Wedding Roadblocks)",
+            "description": "In Poland, the journey to marriage is not just symbolic—it sometimes comes with actual obstacles! Bramy weselne, or wedding roadblocks, are a playful tradition where friends, neighbors, or even strangers ~~tackle~~ block the newlyweds’ path on their way to the church or reception. This custom is particularly popular in Silesia, where it is known as szlogi. \n\nTraditionally, these roadblocks were made using ropes, colorful ribbons, and flowers, creating a festive barrier that the couple had to overcome. Today, the tradition has evolved into a more creative and humorous event, often involving costumes, games, and even themed challenges. The goal? To momentarily “stop” the wedding procession and make the couple work for their passage.\n\nTo be allowed through, the bride and groom must “pay the toll,” which usually means offering bottles of vodka or small gifts to those who set up the roadblock. Sometimes, they are also required to perform tasks, such as answering funny questions about their relationship or completing small challenges.",
+            "img": "/assets/svgs/road-block.svg"
+          },
+          {
+            "title": "Breaking champagne glasses",
+            "description": "In Poland, breaking champagne glasses at a wedding is a long-standing tradition meant to bring the newlyweds good luck (though only the newlyweds). So if you must indulge your urge to smash something, kindly do so before arriving at the wedding — preferably in the privacy of your own home, far away from any innocent glasses.\n\nAfter the first toast, the newlyweds smash their glasses on the floor, with the belief that the more shards there are, the happier their marriage will be. It’s also a symbolic way of saying that, just like the broken glass can’t be put back together, their bond should remain unbreakable.",
+            "img": "/assets/svgs/broken-glass.svg"
+          }
+        ]
       }
     ]
   },
