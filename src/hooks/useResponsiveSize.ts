@@ -5,13 +5,27 @@ const useResponsiveSize = () => {
   const [height, setHeight] = useState(0);
 
   const setSizes = useCallback(() => {
-    setWidth(window.innerWidth);
-    setHeight(window.innerHeight);
-  }, [setWidth, setHeight]);
+    const container = document.getElementById('canvas-container');
+    if (container) {
+      setWidth(container.offsetWidth);
+      setHeight(container.offsetHeight);
+    }
+  }, []);
 
   useEffect(() => {
-    window.addEventListener('resize', setSizes);
-    setSizes();
+    const container = document.getElementById('canvas-container');
+    if (container) {
+      const resizeObserver = new ResizeObserver(() => setSizes());
+      resizeObserver.observe(container);
+
+      // Initial size set
+      setSizes();
+
+      return () => resizeObserver.disconnect(); // Cleanup observer on unmount
+    }
+
+    // If container is not found, return undefined
+    return undefined;
   }, [setSizes]);
 
   return { width, height };

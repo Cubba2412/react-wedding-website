@@ -9,7 +9,7 @@ const Venue = () => {
   const [firstItem, secondItem] = venue.items;
 
   return (
-    <section className={`bg-background py-8`} id="venue">
+    <section className={`bg-background py-8 px-2`} id="venue">
       <div className={`container max-w-5xl mx-auto m-8 lg:text-center`}>
         <h2 className="text-base text-primary font-semibold tracking-wide uppercase text-center">
           {venue.title}
@@ -28,7 +28,7 @@ const Venue = () => {
         </h1>
         <Divider />
         <div className={`flex flex-wrap`}>
-          <div className={`sm:w-1/2 p-6 mt-20`}>
+          <div className={`sm:w-1/2 p-6 lg:mt-20 `}>
             <h3
               className={`text-3xl text-gray-800 font-bold leading-none mb-3`}
             >
@@ -54,7 +54,7 @@ const Venue = () => {
               alt={secondItem?.title}
             />
           </div>
-          <div className={`w-full sm:w-1/2 p-6 mt-20`}>
+          <div className={`w-full sm:w-1/2 p-6 lg:mt-20`}>
             <div className={`align-middle`}>
               <h3
                 className={`text-3xl text-gray-800 font-bold leading-none mb-3`}

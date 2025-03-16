@@ -15,12 +15,10 @@ import { LanguageProvider } from '../hooks/language-context/LanguageContext';
 const App = () => {
   return (
     <LanguageProvider>
-      <div className={`bg-background grid gap-y-4 overflow-hidden`}>
-        <div className={`relative bg-background`}>
+      <div className="bg-background grid gap-y-4">
+        <div className="relative bg-background w-full sm:max-w-7xl lg:max-w-full mx-auto">
           <div className="max-w-7xl mx-auto">
-            <div
-              className={`relative z-10 bg-background sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32`}
-            >
+            <div className="relative z-10 bg-background sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
               <Header />
               <MainHero />
             </div>
