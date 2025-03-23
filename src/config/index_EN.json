@@ -93,7 +93,39 @@
   "thingsToDo": {
     "title": "Bydgoszcz",
     "subTitle": "What to see and what to do",
-    "description": "Comming soon..."
+    "description": "From interactive museums to cozy cafés, Bydgoszcz has plenty of things to explore. Below you'll find a list of our personal recommendations, but if you are looking for anything specific feel free to contact us.",
+    "items": [
+      {
+        "name": "Manekin",
+        "description": "Manekin is a renowned creperie found all over Poland, offering a wide variety of both sweet and savory pancakes. They also serve Zupa w chlebie (Soup in bread) based on seasonal produce. Go off peak, as there can be queues (yes it's that popular). The portions are also quite big so go hungry!",
+        "image": "/assets/images/manekin.jpg",
+        "link": "https://manekin.pl/nalesnikarnia/bydgoszcz-focha/"
+      },
+      {
+        "name": "Monka",
+        "description": "Monka is a distinguished fine-dining restaurant option located in the historic Młyny Rothera (Old mill) complex in Bydgoszcz. Spanning two floors, it offers a menu inspired by Italian and French cuisines. Personally we'd recommend the pizzas, as well as the pistachio tiramisu. Not to mention their selection of polish wines.",
+        "image": "/assets/images/monka.webp",
+        "link": "https://monka.com.pl"
+      },
+      {
+        "name": "Museum of Soap and the History of Dirt",
+        "description": "The Museum of Soap and the History of Dirt offers an interactive journey through the history of cleanliness and soap-making. Visitors can craft their own soap and explore exhibits showcasing the evolution of hygiene practices.",
+        "image": "/assets/images/soap-museum.jpg",
+        "link": "https://muzeummydla.pl/"
+      },
+      {
+        "name": "Bromberg Kaffee",
+        "description": "Located on Gdańska Street in Bydgoszcz, Bromberg Kaffee is renowned for its broad selection of freshly roasted Arabica beans and handcrafted Belgian chocolates. You can choose which beans you want for your coffee and enjoy it along with a chocolate of your choice.",
+        "image": "/assets/images/bromberg-kaffee.jpg",
+        "link": "https://bromberg.eu/"
+      },
+      {
+        "name": "Coffee Trip",
+        "description": "Coffee Trip is a specialty café renowned for its high-quality brews and homemade pastries which we fully recommend.",
+        "image": "/assets/images/coffee-trip.jpg",
+        "link": "https://www.instagram.com/coffeetrip.bydg/"
+      }
+    ]
   },
   "traditions": {
     "title": "Traditions",

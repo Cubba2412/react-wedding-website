@@ -93,8 +93,40 @@
   },
   "thingsToDo": {
     "title": "Bydgoszcz",
-    "subTitle": "Hvad man kan se og opleve",
-    "description": "Kommer snart..."
+    "subTitle": "Ting at se og gøre",
+    "description": "I Bydgoszcz finder man masser at udforske, lige fra interaktive museer til hyggelige caféer. Nedenfor finder du en liste over vores personlige anbefalinger, men hvis du leder efter noget specifikt, er du velkommen til at kontakte os.",
+    "items": [
+      {
+        "name": "Manekin",
+        "description": "Manekin er en kendt crêperie, der findes over hele Polen, og tilbyder et bredt udvalg af både søde og salte pandekager. De serverer også Zupa w chlebie (Suppe i brød) baseret på sæsonens råvarer. Sigt efter at være der udenfor myldretid, da der kan være kø (ja, det er så populært). Portionerne er også ret store, så kom sulten!",
+        "image": "/assets/images/manekin.jpg",
+        "link": "https://manekin.pl/nalesnikarnia/bydgoszcz-focha/"
+      },
+      {
+        "name": "Monka",
+        "description": "Monka er en anerkendt fine-dining restaurant beliggende i det historiske Młyny Rothera (Den gamle mølle) kompleks i Bydgoszcz. Restauranten strækker sig over to etager og tilbyder en menu inspireret af italiensk og fransk kogekunst. Personligt vil vi anbefale pizzaerne samt pistacie tiramisuen. Og glem ikke deres udvalg af polske vine.",
+        "image": "/assets/images/monka.webp",
+        "link": "https://monka.com.pl"
+      },
+      {
+        "name": "Museum for Sæbe og Urenhedens Historie",
+        "description": "Museum for Sæbe og Urenhedens Historie tilbyder en interaktiv rejse gennem renlighedens- og sæbefremstillingshistorie. På museet kan lave deres sin sæbe og udforske udstillinger, der viser udviklingen af hygiejnepraksis.",
+        "image": "/assets/images/soap-museum.jpg",
+        "link": "https://muzeummydla.pl/"
+      },
+      {
+        "name": "Bromberg Kaffee",
+        "description": "Beliggende på Gdańska Street i Bydgoszcz, finder man Bromberg Kaffee, som er kendt for sit brede udvalg af friskristede Arabica-bønner og håndlavede belgiske chokolader. Du kan vælge hvilke bønner du vil have til din kaffe og nyde den sammen med en chokolade efter eget valg.",
+        "image": "/assets/images/bromberg-kaffee.jpg",
+        "link": "https://bromberg.eu/"
+      },
+      {
+        "name": "Coffee Trip",
+        "description": "Coffee Trip er en specialkaffebar kendt for sine høj kvalitets bryg og hjemmelavede bagværk, som vi varmt kan anbefale.",
+        "image": "/assets/images/coffee-trip.jpg",
+        "link": "https://www.instagram.com/coffeetrip.bydg/"
+      }
+    ]
   },
   "traditions": {
     "title": "Traditioner",
