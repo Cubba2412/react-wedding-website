@@ -2,7 +2,7 @@ import React, { createContext, useState, useEffect } from 'react';
 
 import translationsDK from '../../config/index_DK.json';
 import translationsEN from '../../config/index_EN.json';
-// import translationsPL from "../../config/index_PL.json";
+import translationsPL from '../../config/index_PL.json';
 
 // Infer type from JSON file
 type TranslationsType = typeof translationsEN;
@@ -17,7 +17,7 @@ interface LanguageContextType {
 const translationsMap: Record<string, TranslationsType> = {
   en: translationsEN,
   dk: translationsDK,
-  //   pl: translationsPL,
+  pl: translationsPL,
 };
 
 const availableLanguages = Object.keys(translationsMap);

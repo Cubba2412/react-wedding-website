@@ -1,0 +1,197 @@
+{
+  "page": {
+    "name": "Strona główna ślubu 2025",
+    "logo": "/assets/svgs/logo2_black.svg"
+  },
+  "navigation": [
+    {
+      "name": "Miejsce",
+      "href": "venue"
+    },
+    {
+      "name": "Prezenty",
+      "href": "gifts"
+    },
+    {
+      "name": "Tradycje",
+      "href": "traditions"
+    },
+    {
+      "name": "Atrakcje",
+      "href": "thingsToDo"
+    },
+    {
+      "name": "Noclegi",
+      "href": "accommodation"
+    }
+  ],
+  "mainHero": {
+    "title": "Witamy na ślubie",
+    "subtitle": "Agaty & Thomasa",
+    "description": "28 czerwca 2025 roku będziemy świętować naszą miłość w Bydgoszczy, w zachwycającej Boskiej Wenecji, położonej w sercu miasta. Ta strona dostarczy Ci wszystkich informacji potrzebnych do dołączenia do nas w tym wyjątkowym dniu. Nie możemy się doczekać, aby pokazać Ci uroki Bydgoszczy!",
+    "img": "/assets/images/couple-photo.png",
+    "primaryAction": {
+      "text": "Daj nam znać do 20/04/2025, czy będziesz! Możesz napisać SMS-a lub zadzwonić: +49015205843860 lub +48515502321",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Napisz do nas e-mail",
+      "href": "mailto:issaafakattan@gmail.com?subject=Lubię stronę ślubną!"
+    }
+  },
+  "venue": {
+    "title": "Miejsce",
+    "subTitle": "Czas i lokalizacja",
+    "items": [
+      {
+        "title": "Miejsce ceremonii",
+        "description": "Ceremonia rozpocznie się o 16:00 w Urzędzie Stanu Cywilnego w Bydgoszczy, przy ul. Sielanka 8A, 85-073 Bydgoszcz.",
+        "img": "/assets/svgs/bride-groom.svg"
+      },
+      {
+        "title": "Miejsce przyjęcia",
+        "description": "Po ceremonii udamy się do Boskiej Wenecji na wielkie świętowanie, przy ul. Poznańska 8/14, 85-129 Bydgoszcz. \n\n Nie zapomnijcie zabrać butów do tańca! :)",
+        "img": "/assets/images/boskaWenecjaEventRoom.jpg"
+      }
+    ]
+  },
+  "accommodation": {
+    "title": "Bydgoszcz",
+    "subtitle": "Hotele i noclegi",
+    "description": "Bydgoszcz oferuje wiele miejsc noclegowych – od budżetowych hosteli, przez luksusowe hotele, po AirBnB. Wiele z nich znajduje się w spacerowej odległości od miejsca wesela. Poniżej znajdziesz kilka rekomendacji. Jeśli masz pytania lub napotkasz trudności, daj nam znać!",
+    "items": [
+      {
+        "name": "Rezydencja Sowa",
+        "description": "Rezydencja Sowa znajduje się w sercu Starego Miasta, w sąsiedztwie najważniejszych zabytków oraz rzeki Brdy.",
+        "image": "/assets/images/sowa-hotel.jpg",
+        "link": "https://www.rezydencjasowa.pl/en/"
+      },
+      {
+        "name": "La Mare Houseboats",
+        "description": "Dom na Wodzie La Mare Houseboat to wyjątkowa przystań nad rzeką, tuż obok Opery Nova i Ratusza. Z prywatnego tarasu można podziwiać piękne widoki na Brdę.",
+        "image": "/assets/images/la-mare-houseboats.jpg",
+        "link": "https://www.booking.com/hotel/pl/la-mare-apartamenty.en-gb.html"
+      },
+      {
+        "name": "Stara Drukarnia",
+        "description": "Stara Drukarnia oferuje niedrogie apartamenty typu studio, zaledwie 15 minut spacerem od miejsca wesela.",
+        "image": "/assets/images/stara-drukarnia.jpg",
+        "link": "https://www.booking.com/hotel/pl/stara-drukarnia-apartamenty-typu-studio-bydgoszcz.pl.html"
+      }
+    ]
+  },
+  "gifts": {
+    "title": "Prezenty",
+    "subTitle": "Lista życzeń",
+    "description": "Drodzy przyjaciele, rodzino ukochana,\nW dniu ślubu radość jest nam dana\nZamiast prezentów, co mijają jak cień,\nKażda złotówka spełni nasz ślubny sen\nNa ziemiach Turcji, pełnych historii i uroku,\nWyruszymy w podróż poślubną, pełni marzeń i spokoju\n Kapadocja czeka, to nasze marzenie,\nGdzie magiczny lot balonem oferuje niezapomniane widoków spełnienie\n\nA zamiast kwiatów, co szybko znikają,\nNiech ziarna kawy poranki nam umilają\nPrzy filiżance kawy, w porannym spokoju,\nBędziemy wspominać Was w radosnym nastroju! ☕️"
+  },
+  "menu": {
+    "title": "Menu",
+    "subTitle": "Kulinarne Przysmaki z Dwóch Kultur",
+    "description": "Będziemy dzielić się z Wami ucztą nowoczesnej kuchni polskiej. Dodatkowo przygotowaliśmy przekąski zarówno z Danii, jak i z Polski, a także wina musujące i niemusujące, lokalne piwo rzemieślnicze oraz różne napoje gazowane. \nOpcje wegańskie i bezglutenowe są dostępne, jednak prosimy o wcześniejszą informację, abyśmy mogli powiadomić restaurację."
+  },
+  "thingsToDo": {
+    "title": "Bydgoszcz",
+    "subTitle": "Co zobaczyć i co robić",
+    "description": "Od interaktywnych muzeów po przytulne kawiarnie – w Bydgoszczy nie brakuje miejsc do odkrycia. Poniżej znajdziesz listę naszych osobistych rekomendacji, ale jeśli szukasz czegoś konkretnego, śmiało daj nam znać!",
+    "items": [
+      {
+        "name": "Manekin",
+        "description": "Manekin to legendarna naleśnikarnia, którą znajdziesz w wielu miastach Polski. W menu znajdziesz zarówno słodkie, jak i wytrawne naleśniki, a także słynną Zupę w chlebie, przygotowywaną na bazie sezonowych składników. Uwaga: lepiej wybrać się poza godzinami szczytu, bo kolejki potrafią być solidne (tak, jest aż tak popularny). Porcje są duże, więc przyjdź głodny!",
+        "image": "/assets/images/manekin.jpg",
+        "link": "https://manekin.pl/nalesnikarnia/bydgoszcz-focha/"
+      },
+      {
+        "name": "Monka",
+        "description": "Monka to wyrafinowana restauracja fine-dining mieszcząca się w zabytkowym kompleksie Młynów Rothera w Bydgoszczy. Lokal zajmuje dwa piętra i serwuje dania inspirowane kuchnią włoską i francuską. Nasza rekomendacja? Pizza i tiramisu pistacjowe – absolutny sztos! No i oczywiście ich selekcja polskich win, które warto spróbować.",
+        "image": "/assets/images/monka.webp",
+        "link": "https://monka.com.pl"
+      },
+      {
+        "name": "Muzeum Mydła i Historii Brudu",
+        "description": "Muzeum Mydła i Historii Brudu to interaktywna podróż przez dzieje higieny i produkcji mydła. Możesz tu własnoręcznie stworzyć mydło oraz zobaczyć, jak przez wieki zmieniało się podejście do czystości (spoiler: kiedyś nie było różowo).",
+        "image": "/assets/images/soap-museum.jpg",
+        "link": "https://muzeummydla.pl/"
+      },
+      {
+        "name": "Bromberg Kaffee",
+        "description": "Znajdująca się na ulicy Gdańskiej kawiarnia Bromberg Kaffee słynie z szerokiego wyboru świeżo palonej Arabiki oraz ręcznie robionych belgijskich czekoladek. Możesz wybrać swoje ulubione ziarna do kawy i delektować się nią w towarzystwie wyśmienitej czekolady.",
+        "image": "/assets/images/bromberg-kaffee.jpg",
+        "link": "https://bromberg.eu/"
+      },
+      {
+        "name": "Coffee Trip",
+        "description": "Coffee Trip to kawiarnia speciality znana z najwyższej jakości kaw oraz domowych wypieków, które gorąco polecamy. Idealne miejsce na przerwę i chwilę oddechu w podróży!",
+        "image": "/assets/images/coffee-trip.jpg",
+        "link": "https://www.instagram.com/coffeetrip.bydg/"
+      }
+    ]
+  },
+  "traditions": {
+    "title": "Tradycje",
+    "subTitle": "Zwyczaje, Gry i Weselne Obrzędy",
+    "sections": [
+      {
+        "title": "Duńskie Tradycje Weselne",
+        "items": [
+          {
+            "title": "Obcinanie skarpet, krawata i welonu",
+            "description": "W duńskiej tradycji, pod koniec tańca weselnego, panowie podnoszą pana młodego, zdejmują mu buty i wycinają dziurę w skarpetkach oraz obcinają krawat. Oczywiście, nie ma w tym żadnych złych intencji (ale panowie, może warto poćwiczyć pewną rękę przed weselem?). Ten zwyczaj symbolizuje, że pan młody nie jest już kawalerem i nie musi już nikogo imponować swoim strojem. Niektóre źródła twierdzą też, że pierwszym „zadaniem” panny młodej jest późniejsze załatanie skarpet, ale wszyscy wiemy, że Thomas doskonale sobie z tym poradzi sam.\n\n Welon panny młodej również zostaje podarty na kawałki – na wypadek, gdyby biała suknia nie wystarczyła jako sygnał, że właśnie stała się mężatką.",
+            "img": "/assets/svgs/sock-cutting-polish.svg"
+          },
+          {
+            "title": "Brzęk kieliszków i tupanie w podłogę",
+            "description": "W duńskich weselach to goście decydują, kiedy pora na pocałunek – i nie ma zmiłuj! W trakcie posiłku, jeśli wszyscy nagle zaczną stukać sztućcami o kieliszki lub talerze, para młoda musi natychmiast porzucić jedzenie, wstać i podzielić się romantycznym pocałunkiem (bo siedząc, to się przecież nie liczy).\n\nA gdy już myślą, że mają spokój, nadchodzi tupanie! Jeśli goście zaczną głośno tupać w podłogę, nowożeńcy muszą szybko schować się pod stołem i tam się pocałować. Dla dodatkowej zabawy goście mogą naprzemiennie stukać i tupać, zamieniając romantyczny moment w wesele połączone z treningiem crossfit.",
+            "img": "/assets/svgs/glass-and-stomp.svg"
+          },
+          {
+            "title": "Całowanie panny młodej i pana młodego w policzek",
+            "description": "W duńskich weselach opuszczenie sali przez pannę lub pana młodego nie pozostaje bez konsekwencji! Jeśli panna młoda wyjdzie, panie natychmiast rzucają się, by obdarzyć pana młodego całusami w policzek. Z kolei gdy pan młody znika, panowie spieszą z całusami dla panny młodej (więc może warto zaopatrzyć się w miętówki).",
+            "img": "/assets/images/blow-kiss-emoji.png"
+          }
+        ]
+      },
+      {
+        "title": "Polskie Tradycje Weselne",
+        "items": [
+          {
+            "title": "Chleb i sól na powitanie",
+            "description": "Po ceremonii ślubnej, gdy nowożeńcy przybywają na wesele, są tradycyjnie witani przez rodziców chlebem i solą (spokojnie, inne jedzenie też będzie). Chleb symbolizuje dostatek i pomyślność, aby nigdy nie brakowało im pożywienia. Sól natomiast przypomina, że w życiu czekają także trudności, które trzeba pokonywać razem, z siłą i wytrwałością.",
+            "img": "/assets/svgs/bread_and_salt.svg"
+          },
+          {
+            "title": "Oczepiny",
+            "description": "O północy odbywają się tradycyjne „Oczepiny”, symbolizujące przejście panny młodej ze stanu panieńskiego do małżeńskiego. Dawniej zdejmowano welon i zastępowano go czepcem, ale dziś ceremonia przybrała bardziej zabawną i nowoczesną formę.\n\nNajczęściej organizuje się rzut bukietem i podwiązką — niezamężne kobiety walczą ~~o tytuł Mistrzyni Rzutu Bukietem~~ o możliwość złapania bukietu, a kawalerowie ~~biorą udział w epickiej walce o podwiązkę~~ starają się zdobyć podwiązkę pana młodego. Mówi się, że zwycięzcy będą następni w kolejce do ślubu!",
+            "img": "/assets/svgs/bouquet-toss.svg"
+          },
+          {
+            "title": "Zbieranie „na wózek”",
+            "description": "Ta polska tradycja to zabawny sposób, by goście weselni dołożyli się do przyszłego życia rodzinnego nowożeńców. Na parkiecie ustawia się pudełko lub dziecięcy wózek, a każdy, kto chce zatańczyć z panną młodą lub panem młodym, musi wrzucić do niego datek. Mówi się, że zebrane pieniądze to „fundusz startowy” na pierwsze dziecko (drugie już na własną rękę).",
+            "img": "/assets/svgs/stroller.svg"
+          },
+          {
+            "title": "Gorzko! Gorzko!",
+            "description": "Jedna z najbardziej interaktywnych tradycji weselnych w Polsce — okrzyki „Gorzko! Gorzko!”. Goście zaczynają skandować, sugerując, że coś jest „gorzkie” i wymaga osłodzenia. Jak to zrobić? Oczywiście – nowożeńcy muszą się pocałować!",
+            "img": "/assets/svgs/kissing-couple.svg"
+          },
+          {
+            "title": "Bramy Weselne",
+            "description": "W Polsce droga do małżeństwa nie jest prosta – czasem dosłownie! Bramy weselne to tradycja, w której znajomi, sąsiedzi, a czasem nawet nieznajomi ~~atakują~~ blokują drogę nowożeńcom w drodze do kościoła lub sali weselnej. Szczególnie popularne na Śląsku, gdzie znane są jako „szlogi”.\n\nBramy buduje się z lin, wstążek i kwiatów, a żeby przejść, trzeba „zapłacić okup” – najczęściej butelką wódki lub drobnym upominkiem. Czasem para młoda musi też wykonać zabawne zadania, np. odpowiedzieć na pytania o swoim związku.",
+            "img": "/assets/svgs/road-block.svg"
+          },
+          {
+            "title": "Tłuczenie kieliszków",
+            "description": "W Polsce tłuczenie kieliszków to tradycja przynosząca nowożeńcom szczęście (ale tylko im, więc inni goście proszeni są o powstrzymanie się od rozbijania czegokolwiek).\n\nPo pierwszym toaście para młoda rozbija kieliszki na podłodze – im więcej odłamków, tym szczęśliwsze ma być ich małżeństwo. To także symbol, że ich związek jest nierozerwalny – tak jak potłuczone szkło nie da się już skleić.",
+            "img": "/assets/svgs/broken-glass.svg"
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "socialMedia": {
+      "github": "https://github.com/Cubba2412",
+      "linkedin": "https://www.linkedin.com/in/thomas-birk-frederiksen/"
+    }
+  }
+}
