@@ -26,12 +26,12 @@
     }
   ],
   "mainHero": {
-    "title": "Witamy na ślubie",
-    "subtitle": "Agaty & Thomasa",
-    "description": "28 czerwca 2025 roku będziemy świętować naszą miłość w Bydgoszczy, w zachwycającej Boskiej Wenecji, położonej w sercu miasta. Ta strona dostarczy Ci wszystkich informacji potrzebnych do dołączenia do nas w tym wyjątkowym dniu. Nie możemy się doczekać, aby pokazać Ci uroki Bydgoszczy!",
+    "title": "Zapraszamy na nasz ślub!",
+    "subtitle": "Agata & Thomas",
+    "description": "28 czerwca 2025 roku będziemy świętować naszą miłość w Bydgoszczy, w lokalu Boska Wenecja, położonym w sercu miasta. Nie możemy się doczekać, by z Wami świętować!",
     "img": "/assets/images/couple-photo.png",
     "primaryAction": {
-      "text": "Daj nam znać do 20/04/2025, czy będziesz! Możesz napisać SMS-a lub zadzwonić: +49015205843860 lub +48515502321",
+      "text": "Prosimy o potwierdzenie do 20/04/2025 na +49015205843860 lub +48515502321",
       "href": "#"
     },
     "secondaryAction": {
@@ -50,7 +50,7 @@
       },
       {
         "title": "Miejsce przyjęcia",
-        "description": "Po ceremonii udamy się do Boskiej Wenecji na wielkie świętowanie, przy ul. Poznańska 8/14, 85-129 Bydgoszcz. \n\n Nie zapomnijcie zabrać butów do tańca! :)",
+        "description": "Po ceremonii udamy się do Boskiej Wenecji na świętowanie przy ul. Poznańskiej 8/14, 85-129 Bydgoszcz. \n\n Nie zapomnijcie zabrać butów do tańca! :)",
         "img": "/assets/images/boskaWenecjaEventRoom.jpg"
       }
     ]
@@ -58,7 +58,7 @@
   "accommodation": {
     "title": "Bydgoszcz",
     "subtitle": "Hotele i noclegi",
-    "description": "Bydgoszcz oferuje wiele miejsc noclegowych – od budżetowych hosteli, przez luksusowe hotele, po AirBnB. Wiele z nich znajduje się w spacerowej odległości od miejsca wesela. Poniżej znajdziesz kilka rekomendacji. Jeśli masz pytania lub napotkasz trudności, daj nam znać!",
+    "description": "Bydgoszcz oferuje wiele miejsc noclegowych – od budżetowych hosteli, przez luksusowe hotele, po AirBnB. Wiele z nich znajduje się w niedalekiej odległości od miejsca wesela. Poniżej znajdziecie kilka rekomendacji. Jeśli macie pytania dajcie nam znać!",
     "items": [
       {
         "name": "Rezydencja Sowa",
@@ -68,7 +68,7 @@
       },
       {
         "name": "La Mare Houseboats",
-        "description": "Dom na Wodzie La Mare Houseboat to wyjątkowa przystań nad rzeką, tuż obok Opery Nova i Ratusza. Z prywatnego tarasu można podziwiać piękne widoki na Brdę.",
+        "description": "Dom na Wodzie La Mare Houseboat to wyjątkowa przystań nad rzeką, tuż obok Opery Nova. Z prywatnego tarasu można podziwiać piękny widok na Brdę.",
         "image": "/assets/images/la-mare-houseboats.jpg",
         "link": "https://www.booking.com/hotel/pl/la-mare-apartamenty.en-gb.html"
       },
@@ -97,7 +97,7 @@
     "items": [
       {
         "name": "Manekin",
-        "description": "Manekin to legendarna naleśnikarnia, którą znajdziesz w wielu miastach Polski. W menu znajdziesz zarówno słodkie, jak i wytrawne naleśniki, a także słynną Zupę w chlebie, przygotowywaną na bazie sezonowych składników. Uwaga: lepiej wybrać się poza godzinami szczytu, bo kolejki potrafią być solidne (tak, jest aż tak popularny). Porcje są duże, więc przyjdź głodny!",
+        "description": "Manekin to legendarna naleśnikarnia, którą znajdziesz w wielu miastach Polski. W menu znajdziesz zarówno słodkie, jak i wytrawne naleśniki, a także słynną zupę w chlebie, przygotowywaną na bazie sezonowych składników. Uwaga: lepiej wybrać się poza godzinami szczytu, bo kolejki potrafią być solidne (tak, jest aż tak popularny). Porcje są duże, więc przyjdź głodny!",
         "image": "/assets/images/manekin.jpg",
         "link": "https://manekin.pl/nalesnikarnia/bydgoszcz-focha/"
       },
@@ -136,12 +136,12 @@
         "items": [
           {
             "title": "Obcinanie skarpet, krawata i welonu",
-            "description": "W duńskiej tradycji, pod koniec tańca weselnego, panowie podnoszą pana młodego, zdejmują mu buty i wycinają dziurę w skarpetkach oraz obcinają krawat. Oczywiście, nie ma w tym żadnych złych intencji (ale panowie, może warto poćwiczyć pewną rękę przed weselem?). Ten zwyczaj symbolizuje, że pan młody nie jest już kawalerem i nie musi już nikogo imponować swoim strojem. Niektóre źródła twierdzą też, że pierwszym „zadaniem” panny młodej jest późniejsze załatanie skarpet, ale wszyscy wiemy, że Thomas doskonale sobie z tym poradzi sam.\n\n Welon panny młodej również zostaje podarty na kawałki – na wypadek, gdyby biała suknia nie wystarczyła jako sygnał, że właśnie stała się mężatką.",
+            "description": "W duńskiej tradycji, pod koniec tańca weselnego, panowie podnoszą pana młodego, zdejmują mu buty i wycinają dziurę w skarpetkach oraz obcinają krawat. Oczywiście, nie ma w tym żadnych złych intencji (ale panowie, może warto poćwiczyć pewną rękę przed weselem?). Ten zwyczaj symbolizuje, że pan młody nie jest już kawalerem i nie musi już nikomu imponować swoim strojem. Niektóre źródła twierdzą też, że pierwszym „zadaniem” panny młodej jest późniejsze załatanie skarpet, ale wszyscy wiemy, że Thomas doskonale sobie z tym poradzi sam.\n\n Welon panny młodej również zostaje podarty na kawałki – na wypadek, gdyby biała suknia nie wystarczyła jako sygnał, że właśnie stała się mężatką.",
             "img": "/assets/svgs/sock-cutting-polish.svg"
           },
           {
             "title": "Brzęk kieliszków i tupanie w podłogę",
-            "description": "W duńskich weselach to goście decydują, kiedy pora na pocałunek – i nie ma zmiłuj! W trakcie posiłku, jeśli wszyscy nagle zaczną stukać sztućcami o kieliszki lub talerze, para młoda musi natychmiast porzucić jedzenie, wstać i podzielić się romantycznym pocałunkiem (bo siedząc, to się przecież nie liczy).\n\nA gdy już myślą, że mają spokój, nadchodzi tupanie! Jeśli goście zaczną głośno tupać w podłogę, nowożeńcy muszą szybko schować się pod stołem i tam się pocałować. Dla dodatkowej zabawy goście mogą naprzemiennie stukać i tupać, zamieniając romantyczny moment w wesele połączone z treningiem crossfit.",
+            "description": "Na duńskich weselach to goście decydują, kiedy pora na pocałunek – i nie ma zmiłuj! W trakcie posiłku, jeśli wszyscy nagle zaczną stukać sztućcami o kieliszki lub talerze, para młoda musi natychmiast porzucić jedzenie, wstać i podzielić się romantycznym pocałunkiem (bo siedząc, to się przecież nie liczy).\n\nA gdy już myślą, że mają spokój, nadchodzi tupanie! Jeśli goście zaczną głośno tupać w podłogę, nowożeńcy muszą szybko schować się pod stołem i tam się pocałować. Dla dodatkowej zabawy goście mogą naprzemiennie stukać i tupać, zamieniając romantyczny moment w wesele połączone z treningiem crossfit.",
             "img": "/assets/svgs/glass-and-stomp.svg"
           },
           {
@@ -156,12 +156,12 @@
         "items": [
           {
             "title": "Chleb i sól na powitanie",
-            "description": "Po ceremonii ślubnej, gdy nowożeńcy przybywają na wesele, są tradycyjnie witani przez rodziców chlebem i solą (spokojnie, inne jedzenie też będzie). Chleb symbolizuje dostatek i pomyślność, aby nigdy nie brakowało im pożywienia. Sól natomiast przypomina, że w życiu czekają także trudności, które trzeba pokonywać razem, z siłą i wytrwałością.",
+            "description": "Po ceremonii ślubnej, gdy nowożeńcy przybywają na wesele, są tradycyjnie witani przez rodziców chlebem i solą (spokojnie, inne jedzenie też będzie!). Chleb symbolizuje dostatek i pomyślność, aby nigdy nie brakowało im pożywienia. Sól natomiast przypomina, że w życiu czekają także trudności, które trzeba pokonywać razem, z siłą i wytrwałością.",
             "img": "/assets/svgs/bread_and_salt.svg"
           },
           {
             "title": "Oczepiny",
-            "description": "O północy odbywają się tradycyjne „Oczepiny”, symbolizujące przejście panny młodej ze stanu panieńskiego do małżeńskiego. Dawniej zdejmowano welon i zastępowano go czepcem, ale dziś ceremonia przybrała bardziej zabawną i nowoczesną formę.\n\nNajczęściej organizuje się rzut bukietem i podwiązką — niezamężne kobiety walczą ~~o tytuł Mistrzyni Rzutu Bukietem~~ o możliwość złapania bukietu, a kawalerowie ~~biorą udział w epickiej walce o podwiązkę~~ starają się zdobyć podwiązkę pana młodego. Mówi się, że zwycięzcy będą następni w kolejce do ślubu!",
+            "description": "O północy odbywają się tradycyjne „Oczepiny”, symbolizujące przejście panny młodej ze stanu panieńskiego do małżeńskiego. Dawniej zdejmowano welon i zastępowano go czepcem, ale dziś ceremonia przybrała bardziej zabawną i nowoczesną formę.\n\nNajczęściej organizuje się rzut bukietem i podwiązką — niezamężne kobiety walczą ~~o tytuł Mistrzyni Rzutu Bukietem~~ o możliwość złapania bukietu, a kawalerowie ~~biorą udział w epickiej walce o podwiązkę~~ starają się zdobyć krawat pana młodego. Mówi się, że zwycięzcy będą następni w kolejce do ślubu!",
             "img": "/assets/svgs/bouquet-toss.svg"
           },
           {
