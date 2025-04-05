@@ -9,10 +9,6 @@
       "href": "venue"
     },
     {
-      "name": "Jak dotrzeć",
-      "href": "getting-there"
-    },
-    {
       "name": "Prezenty",
       "href": "gifts"
     },
@@ -56,16 +52,6 @@
         "title": "Miejsce przyjęcia",
         "description": "Po ceremonii udamy się do Boskiej Wenecji na świętowanie przy ul. Poznańskiej 8/14, 85-129 Bydgoszcz. \n\n Nie zapomnijcie zabrać butów do tańca! :)",
         "img": "/assets/images/boskaWenecjaEventRoom.jpg"
-      }
-    ]
-  },
-  "gettingThere": {
-    "title": "Jak dotrzeć",
-    "subTitle": "Do Bydgoszczy z zagranicy",
-    "items": [
-      {
-        "title": "Jak dotrzeć do Bydgoszczy",
-        "description": "Chociaż Bydgoszcz posiada lotnisko, ma tylko kilka wybranych połączeń (np. Londyn, Warszawa i Frankfurt).\n\nNajlepszym sposobem dotarcia do Bydgoszczy jest przylot do Poznania lub Gdańska. Z centrum każdej z tych miast dojazd zajmuje około 30 minut, a stamtąd pociągi intercity kursują do Bydgoszczy w około 1,5 godziny i kursują kilka razy dziennie. Bilety można kupić bezpośrednio na:\nhttps://www.intercity.pl/pl/"
       }
     ]
   },

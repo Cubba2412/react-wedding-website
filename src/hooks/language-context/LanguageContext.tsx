@@ -5,7 +5,9 @@ import translationsEN from '../../config/index_EN.json';
 import translationsPL from '../../config/index_PL.json';
 
 // Infer type from JSON file
-type TranslationsType = typeof translationsEN;
+type TranslationsType = Omit<typeof translationsEN, 'gettingThere'> & {
+  gettingThere?: typeof translationsEN.gettingThere;
+};
 
 interface LanguageContextType {
   language: string;

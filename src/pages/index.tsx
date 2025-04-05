@@ -38,7 +38,6 @@ const App = () => {
         <LazyShow>
           <>
             <GettingThere />
-            <Canvas />
           </>
         </LazyShow>
 
