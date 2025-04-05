@@ -1,6 +1,6 @@
 import React, { createContext, useState, useEffect } from 'react';
 
-import translationsDK from '../../config/index_DK.json';
+import translationsDA from '../../config/index_DA.json';
 import translationsEN from '../../config/index_EN.json';
 import translationsPL from '../../config/index_PL.json';
 
@@ -16,7 +16,7 @@ interface LanguageContextType {
 
 const translationsMap: Record<string, TranslationsType> = {
   en: translationsEN,
-  dk: translationsDK,
+  da: translationsDA,
   pl: translationsPL,
 };
 

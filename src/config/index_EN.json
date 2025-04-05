@@ -9,6 +9,10 @@
       "href": "venue"
     },
     {
+      "name": "Getting there",
+      "href": "getting-there"
+    },
+    {
       "name": "Gifts",
       "href": "gifts"
     },
@@ -52,6 +56,16 @@
         "title": "Reception location",
         "description": "After the ceremony we will convene at Boska Wenecja where the party will take place, located at Poznańska 8/14, 85-129 Bydgoszcz. \n\n Remeber to bring your dancing shoes :)",
         "img": "/assets/images/boskaWenecjaEventRoom.jpg"
+      }
+    ]
+  },
+  "gettingThere": {
+    "title": "Getting there",
+    "subTitle": "To Bydgoszcz from Abroad",
+    "items": [
+      {
+        "title": "Getting to Bydgoszcz",
+        "description": "While Bydgoszcz does have an airport, it only has a few selected connections (e.g. London, Warsaw, and Frankfurt).\n\nThe best way to get to Bydgoszcz is to fly into either Poznań or Gdańsk. Getting to the center of either city is about 30 min and from there the intercity trains take about 1.5 hours to Bydgoszcz and run several times a day. You can buy tickets directly at:\nhttps://www.intercity.pl/en/ \n\n(NOTE: The discounted tickets are only for polish residents)"
       }
     ]
   },

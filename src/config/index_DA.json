@@ -8,7 +8,10 @@
       "name": "Lokation",
       "href": "venue"
     },
-
+    {
+      "name": "Rejseinfo",
+      "href": "getting-there"
+    },
     {
       "name": "Gaver",
       "href": "gifts"
@@ -53,6 +56,16 @@
         "title": "Receptionen",
         "description": "Efter ceremonien samles vi på Boska Wenecja, hvor festen finder sted, beliggende på Poznańska 8/14, 85-129 Bydgoszcz.\n\n Husk at medbringe danseskoene :)",
         "img": "/assets/images/boskaWenecjaEventRoom.jpg"
+      }
+    ]
+  },
+  "gettingThere": {
+    "title": "Rejseinfo",
+    "subTitle": "Til Bydgoszcz fra Udlandet",
+    "items": [
+      {
+        "title": "Rejseinfo Til Bydgoszcz",
+        "description": "Selvom Bydgoszcz har en lufthavn, har den kun et begrænset antal forbindelser (hovedsageligt London, Warszawa og Frankfurt).\n\nDen nemmeste måde at komme til Bydgoszcz på er at flyve til enten Poznań eller Gdańsk. Fra begge byers lufthavne tager det cirka 30 minutter til centrum, og derfra kører intercitytogene til Bydgoszcz på ca. 1,5 time flere gange om dagen. Billetter kan købes direkte på:\nhttps://www.intercity.pl/en/ \n\n(BEMÆRK: Ung/studie/pensionist billetter er kun til polske borgere)"
       }
     ]
   },
