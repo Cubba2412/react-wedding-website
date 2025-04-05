@@ -2,7 +2,7 @@ import About from '../components/About';
 import Accommodation from '../components/Accommodation';
 import Analytics from '../components/Analytics';
 import Canvas from '../components/Canvas';
-import GettingThere from '../components/Getting-there';
+import GettingThere from '../components/GettingThere';
 import Gifts from '../components/Gifts';
 import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
