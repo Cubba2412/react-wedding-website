@@ -105,7 +105,9 @@ const GettingThere = () => {
               frameBorder="0"
               style={{ border: 0 }}
               referrerPolicy="no-referrer-when-downgrade"
-              src={`https://www.google.com/maps/embed/v1/directions?key=AIzaSyCsjNJnhODYV5nkyfc9CAj9keW0z-rmdh4&origin=Gdańsk+Główny,Gdańsk,Poland&destination=Bydgoszcz+Główny,Bydgoszcz,Poland&mode=transit&zoom=${zoom1}&center=${center1.join(
+              src={`https://www.google.com/maps/embed/v1/directions?key=${
+                process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY
+              }&origin=Gdańsk+Główny,Gdańsk,Poland&destination=Bydgoszcz+Główny,Bydgoszcz,Poland&mode=transit&zoom=${zoom1}&center=${center1.join(
                 ','
               )}&language=${language}`}
               allowFullScreen
@@ -126,7 +128,9 @@ const GettingThere = () => {
               frameBorder="0"
               style={{ border: 0 }}
               referrerPolicy="no-referrer-when-downgrade"
-              src={`https://www.google.com/maps/embed/v1/directions?key=AIzaSyCsjNJnhODYV5nkyfc9CAj9keW0z-rmdh4&origin=Poznań+Główny,Poznań,Poland&destination=Bydgoszcz+Główny,Bydgoszcz,Poland&mode=transit&zoom=${zoom2}&center=${center2.join(
+              src={`https://www.google.com/maps/embed/v1/directions?key=${
+                process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY
+              }&origin=Poznań+Główny,Poznań,Poland&destination=Bydgoszcz+Główny,Bydgoszcz,Poland&mode=transit&zoom=${zoom2}&center=${center2.join(
                 ','
               )}&language=${language}`}
               allowFullScreen
