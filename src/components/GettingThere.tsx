@@ -76,7 +76,7 @@ const GettingThere = () => {
   const { gettingThere } = translations;
   if (!gettingThere) return null;
 
-  const [firstItem] = gettingThere.items;
+  const { firstItem, secondItem } = gettingThere;
 
   return (
     <>
@@ -140,6 +140,40 @@ const GettingThere = () => {
                 allowFullScreen
               ></iframe>
             </div>
+          </div>
+          {/* Taxi Apps Info */}
+          <div className="mt-16 text-center">
+            <h2 className="text-base text-primary font-semibold tracking-wide uppercase mb-2">
+              {secondItem.title}
+            </h2>
+            <h3 className="text-3xl font-bold text-border mb-6">
+              {secondItem.description}
+            </h3>
+            <ul className="text-gray-600 space-y-6 text-left max-w-3xl mx-auto px-4 sm:px-0">
+              {secondItem.items.map((app, index) => (
+                <li key={index} className="flex items-start gap-4">
+                  {app.img && (
+                    <img
+                      src={app.img}
+                      alt={app.name}
+                      className="w-14 h-14 object-contain"
+                    />
+                  )}
+                  <div>
+                    <strong className="text-lg text-primary">{app.name}</strong>
+                    <p className="text-sm mt-1 mb-2">{app.description}</p>
+                    <a
+                      href={app.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-primary underline"
+                    >
+                      {new URL(app.link).hostname}
+                    </a>
+                  </div>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </section>

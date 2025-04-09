@@ -62,12 +62,34 @@
   "gettingThere": {
     "title": "Getting there",
     "subTitle": "To Bydgoszcz from Abroad",
-    "items": [
-      {
-        "title": "Getting to Bydgoszcz",
-        "description": "While Bydgoszcz does have an airport, it only has a few selected connections (e.g. London, Warsaw, and Frankfurt).\n\nThe best way to get to Bydgoszcz is to fly into either Poznań or Gdańsk. Getting to the center of either city is about 30 min and from there the intercity trains take about 1.5 hours to Bydgoszcz and run several times a day. You can buy tickets directly at:\nhttps://www.intercity.pl/en/ \n\n(NOTE: The discounted tickets are only for polish residents)"
-      }
-    ]
+    "firstItem": {
+      "title": "Getting to Bydgoszcz",
+      "description": "While Bydgoszcz does have an airport, it only has a few selected connections (e.g. London, Warsaw, and Frankfurt).\n\nThe best way to get to Bydgoszcz is to fly into either Poznań or Gdańsk. Getting to the center of either city is about 30 min and from there the intercity trains take about 1.5 hours to Bydgoszcz and run several times a day. You can buy tickets directly at:\nhttps://www.intercity.pl/en/ \n\n(NOTE: The discounted tickets are only for polish residents)"
+    },
+    "secondItem": {
+      "title": "Taxi Apps in Poland",
+      "description": "Convenient ways to get around",
+      "items": [
+        {
+          "name": "Bolt",
+          "description": "Bolt is the most affordable option of the three. Though it is still perfectly reliable and the cars are usually fine.",
+          "link": "https://bolt.eu/en/",
+          "img": "/assets/svgs/bolt-logo-min.svg"
+        },
+        {
+          "name": "Uber",
+          "description": "Uber of course needs no introduction. It is just as reliable as the other two, though would often have slightly nicer cars at the price of well... the price.",
+          "link": "https://www.uber.com/global/en/r/cities/bydgoszcz-kujawsko-pomorskie-pl/",
+          "img": "/assets/svgs/uber-logo-min.svg"
+        },
+        {
+          "name": "Free Now",
+          "description": "Free Now is quite similar to Bolt and will usually have very similar both prices and cars.",
+          "link": "https://free-now.com/pl/",
+          "img": "/assets/svgs/free-now-logo-min.svg"
+        }
+      ]
+    }
   },
   "accommodation": {
     "title": "Bydgoszcz",
