@@ -1,5 +1,6 @@
 import About from '../components/About';
 import Accommodation from '../components/Accommodation';
+import AfterParty from '../components/Afterparty';
 import Analytics from '../components/Analytics';
 import Canvas from '../components/Canvas';
 import GettingThere from '../components/GettingThere';
@@ -32,6 +33,7 @@ const App = () => {
         <LazyShow>
           <>
             <Venue />
+            <AfterParty />
             <Canvas />
           </>
         </LazyShow>

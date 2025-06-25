@@ -160,6 +160,12 @@
         "description": "Coffee Trip is a specialty café renowned for its high-quality brews and homemade pastries which we fully recommend.",
         "image": "/assets/images/coffee-trip.jpg",
         "link": "https://www.instagram.com/coffeetrip.bydg/"
+      },
+      {
+        "name": "Syta Pita",
+        "description": "Our favourite kebab place (yes it even trumps Berlin. The secrect is the polish mayo). They are closed on Sundays, so make sure to visit on a Friday, Saturday or Monday. They also have a vegetarian option (falafel).",
+        "image": "/assets/images/kebab.webp",
+        "link": "https://maps.app.goo.gl/1UWvywQq8VUPzBNy5/"
       }
     ]
   },
@@ -223,6 +229,11 @@
         ]
       }
     ]
+  },
+  "afterParty": {
+    "title": "Boska Wenecja at 13:00",
+    "subtitle": "(Morning) After Party",
+    "description": "The day after the party the remaining food will be served at 13:00 at Boska Wenecja. We realise a lot of you have tight travel plans and may not be able to join us, but if you can, we would love to see you there. "
   },
   "about": {
     "socialMedia": {

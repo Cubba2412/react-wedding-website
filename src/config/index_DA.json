@@ -160,6 +160,12 @@
         "description": "Coffee Trip er en specialkaffebar kendt for sine høj kvalitets bryg og hjemmelavede bagværk, som vi varmt kan anbefale.",
         "image": "/assets/images/coffee-trip.jpg",
         "link": "https://www.instagram.com/coffeetrip.bydg/"
+      },
+      {
+        "name": "Syta Pita",
+        "description": "Vores yndlingskebabsted (ja, det slår endda Berlin. Hemmeligheden er den polske mayo). De har lukket om søndagen, så sørg for at besøge dem fredag, lørdag eller mandag. De har også en vegetarisk mulighed (falafel).",
+        "image": "/assets/images/kebab.webp",
+        "link": "https://maps.app.goo.gl/1UWvywQq8VUPzBNy5/"
       }
     ]
   },
@@ -223,6 +229,11 @@
         ]
       }
     ]
+  },
+  "afterParty": {
+    "title": "Boska Wenecja kl. 13:00",
+    "subtitle": "(Morning) After Party",
+    "description": "Dagen efter festen bliver resten af maden serveret kl. 13:00 på Boska Wenecja. Vi ved, at mange af jer har stramme rejseplaner og måske ikke kan være med, men hvis I har mulighed for det, vil vi elske at se jer der."
   },
   "about": {
     "socialMedia": {

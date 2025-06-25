@@ -124,6 +124,12 @@
         "description": "Coffee Trip to kawiarnia speciality znana z najwyższej jakości kaw oraz domowych wypieków, które gorąco polecamy. Idealne miejsce na przerwę i chwilę oddechu w podróży!",
         "image": "/assets/images/coffee-trip.jpg",
         "link": "https://www.instagram.com/coffeetrip.bydg/"
+      },
+      {
+        "name": "Syta Pita",
+        "description": "Nasze ulubione miejsce z kebabem (tak, nawet lepsze niż w Berlinie. Sekretem jest polski majonez). Są zamknięci w niedziele, więc warto odwiedzić ich w piątek, sobotę lub poniedziałek. Mają też opcję wegetariańską (falafel).",
+        "image": "/assets/images/kebab.webp",
+        "link": "https://maps.app.goo.gl/1UWvywQq8VUPzBNy5/"
       }
     ]
   },
@@ -187,6 +193,11 @@
         ]
       }
     ]
+  },
+  "afterParty": {
+    "title": "Boska Wenecja o 13:00",
+    "subtitle": "(Poranne) After Party",
+    "description": "W niedzielę o godzinie 13:00 w Boskiej Wenecji zapraszamy na mini-poprawiny w formie obiadu. Wiemy, że wielu z Was ma napięty plan podróży i może nie być w stanie do nas dołączyć, ale jeśli możecie — będzie nam bardzo miło Was zobaczyć."
   },
   "about": {
     "socialMedia": {
